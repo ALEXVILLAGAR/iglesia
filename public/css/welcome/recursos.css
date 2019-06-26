@@ -1,0 +1,29 @@
+.sombra{
+	-webkit-box-shadow: 7px 9px 39px -13px rgba(0,0,0,0.75);
+-moz-box-shadow: 7px 9px 39px -13px rgba(0,0,0,0.75);
+box-shadow: 7px 9px 39px -13px rgba(0,0,0,0.75);
+}
+
+.button1 {
+  width: 140px;
+  height: 45px;
+  font-size: 15px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  color: black !important;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 0px 20px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.4s ease 0s;
+  cursor: pointer;
+  outline: none;
+  border:1px solid black;
+  }
+
+.button1:hover {
+  background-color: #A0E7FA;
+  box-shadow: 10px 15px 20px rgba(51, 236, 255, 0.4);
+  color: black !important;
+  transform: translateY(7px);
+  border:1px solid white;
+}

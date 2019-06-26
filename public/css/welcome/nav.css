@@ -1,0 +1,45 @@
+.bg-primary{
+        transition: all 1s ease;
+      }
+
+.trasparente{
+	opacity: .7;
+}
+
+.trasparente1{
+	background-color: #E3F1EF;
+	opacity: 1;
+}
+.button {
+  width: 140px;
+  height: 45px;
+  font-size: 15px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 500;
+  color: red !important;
+  background-color: #177669;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0px 20px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.4s ease 0s;
+  cursor: pointer;
+  outline: none;
+  }
+
+.button:hover {
+  background-color: #C2A867;
+  box-shadow: 10px 15px 20px rgba(51, 236, 255, 0.4);
+  color: white;
+  transform: translateY(7px);
+}
+.posicion{
+	position: relative;
+	left: 5%;
+}
+.opacidad{
+	opacity: .4;
+}
+.tamaño{
+  width: 100%;
+}
