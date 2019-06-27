@@ -1,3 +1,7 @@
+
+swal("Bienvenido, Gracias por tu visita", "", "success")
+
+
  $("#menu").addClass("opacidad");  
 
       $(window).scroll(function() {
@@ -96,3 +100,4 @@
    }
    );
 });
+

@@ -1,5 +1,5 @@
 
-<div class="card col-md-3 sombra foto shadow-lg p-2 mb-1 mt-5 bg-white rounded " style="width: 18rem;">
+<div class="card col-md-3 sombra mt-5 bg-white rounded " style="width: 18rem;">
   <div class="card-body">
     <h5 class="card-title text-center">Card title</h5>
     <hr class="bg-info">
@@ -16,8 +16,6 @@
         $i++;
     	if (preg_match('/'.'jpg'.'/', $archivo) || preg_match('/'.'gif'.'/', $archivo) || preg_match('/'.'png'.'/', $archivo)):
         ?>
-     <br>
-     <br>
 
   <img src="public/img/galeria/fotos1/<?php echo $archivo;?>" class="card-img-top foto  col-md-3 sombra  mt-5" alt="<?php echo $archivo; ?>">
 

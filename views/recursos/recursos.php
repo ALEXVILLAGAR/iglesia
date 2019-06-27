@@ -1,5 +1,5 @@
 
-<div class="row "  id="mi-recursos">
+<div class="row ocultar"  id="mi-recursos">
 
 
 <h3 class="col-md-12 text-center sombra bajar">Recursos</h3>
@@ -14,10 +14,8 @@ while ($archivo = readdir($directorio)) //obtenemos un archivo y luego otro suce
     }
     else
     {
-    	?>
-
-        
-  <div class="col-md-6 shadow-lg p-2 mb-3 bg-white rounded ">
+    	?>       
+  <div class="col-md-4 shadow-lg p-2 bg-white  ">
     <div class="card sombra ">
       <div class="card-body text-center">
         <h5 class="card-title"><?php echo $archivo; ?></h5>

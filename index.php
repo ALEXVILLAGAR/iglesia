@@ -15,7 +15,10 @@
     <link rel="stylesheet" href="public/css/welcome/galeria.css">
     <link rel="stylesheet" href="public/css/welcome/recursos.css">
     <link rel="stylesheet" href="public/css/welcome/animate.css">
+<link rel="stylesheet" href="public/css/welcome/footer.css">
 
+    
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
     <script>
         ScrollReveal({ reset: true });

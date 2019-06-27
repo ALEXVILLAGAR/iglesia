@@ -1,5 +1,46 @@
-<div class="row">
+<div class="row tagline">
 
+	<div class="col-md-4 text-center bajar border">
+		<br>
+		<h1><strong>Igresia XXXXXXXX</strong></h1>
+		<br>
+		<strong><i class="fas fa-map-marker-alt fa-2x"> Santa Rosa de Cabal</i> </strong>
+		<br>
+		<strong><i class="fas fa-envelope-open fa-2x"> example@gmail.com</i></strong>
+		<br>
+		<strong><i class="fab fa-whatsapp fa-2x"> 321 652 1716</i> </strong>
+	</div>
+    <div class="col-md-4 border bajar">
+    	<br>
+    	<br>
+	<p class="text-center"><strong>"Porque yo sé los planes que tengo para vosotros"declara el SEÑOR"planes de bienestar y no de calamidad, para daros un futuro y una esperanza."
+		<br>
+		<br>
+	Jeremías 29:11
+   </strong></p>
+	</div>
+
+   <div class="col-md-4 text-center bajar">
+		<img src="https://img.webme.com/pic/i/iglesiaelsalvador7/oficial5.gif" width="250">
+	</div>
+
+	<div class="col-md-12 text-center">
+		<strong class="col-md-4 ">
+			<a href="#" title=""><img src="public/img/logo.png" alt="" class="col-md-2"></a>
+		</strong>
+		<strong class="col-md-4">
+		      <h3>Siguenos en </h3>    
+			<a href="" title=""><i class="fab fa-whatsapp fa-2x text-success"></i></a> 
+			<a href="" title=""><i class="fab fa-instagram fa-2x text-danger"></i></a>
+			<a href="" title=""><i class="fab fa-facebook-square fa-2x text-info"></i></a>
+		</strong>
+		<strong class="col-md-4">
+		      <h3>Contactanos </h3>    
+			<i class="fas fa-envelope-open "> example@gmail.com |</i>
+			<i class="fas fa-phone-volume"> 321 652 1716 |</i>
+			<i class="fas fa-map-marker-alt"> Dir: XX-XX Local: xx Pereira </i>
+		</strong>
+	</div>
 	
-	<img src="https://hospederiadelaplata.com/wp-content/uploads/elementor/tmp/5b9559d8ee38c/_Page%20templates/Katka%20Logistics/Katka%20Logistics%20section%20template/Katka%20Logistics%20-%20Footer%201.JPG" class="col-md-12 mt-5">
+	<h3 class="col-md-12 text-center bajar"><i class="fas fa-copyright "></i> 2019 <a href="" title="">LineOfCode</a> </h3>
 </div>
