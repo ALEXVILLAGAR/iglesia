@@ -2,13 +2,14 @@
 
 	<div class="col-md-4 text-center bajar border">
 		<br>
-		<h1><strong>Igresia XXXXXXXX</strong></h1>
+		<h1><strong>Iglesia XXXXXXXX</strong></h1>
 		<br>
-		<strong><i class="fas fa-map-marker-alt fa-2x"> Santa Rosa de Cabal</i> </strong>
-		<br>
-		<strong><i class="fas fa-envelope-open fa-2x"> example@gmail.com</i></strong>
-		<br>
-		<strong><i class="fab fa-whatsapp fa-2x"> 321 652 1716</i> </strong>
+		<strong><i class="fas fa-map-marker-alt fa-2x mr-3"> </i>  Santa Rosa de Cabal</strong>
+		<hr>
+		<strong><i class="fas fa-envelope-open fa-2x mr-3"></i>  example@gmail.com</strong>
+		<hr>
+		<strong class="mr-5"><i class="fas fa-phone-volume fa-2x mr-3"> </i>  321 652 1716 </strong>
+		<hr>
 	</div>
     <div class="col-md-4 border bajar">
     	<br>

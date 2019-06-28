@@ -1,7 +1,7 @@
 
 swal("Bienvenido, Gracias por tu visita", "", "success")
 
-
+/**
  $("#menu").addClass("opacidad");  
 
       $(window).scroll(function() {
@@ -13,6 +13,8 @@ swal("Bienvenido, Gracias por tu visita", "", "success")
             $("#menu").addClass("opacidad");
         }
       });
+
+   **/
    
         ScrollReveal().reveal('.tagline', { delay: 50 });
         ScrollReveal().reveal('.punchline', { delay: 2000 });

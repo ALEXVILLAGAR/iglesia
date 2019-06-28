@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="public/css/welcome/galeria.css">
     <link rel="stylesheet" href="public/css/welcome/recursos.css">
     <link rel="stylesheet" href="public/css/welcome/animate.css">
-<link rel="stylesheet" href="public/css/welcome/footer.css">
+    <link rel="stylesheet" href="public/css/welcome/footer.css">
 
     
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
@@ -30,7 +30,7 @@
     <?php include 'views/navbar.php';  ?>
 
      <!-- /inicia -->
-      <header id="header" >
+      <header id="header" class="bajar">
       	<img src="https://cdn4.eyeem.com/thumb/76dc0a962f3f426cf143e29cd9a0b5a11f879c76-1543536642877/w/1000" 
          alt="" class="col-md-12" id="mi-inicio">
       </header>
