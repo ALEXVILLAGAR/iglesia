@@ -29,6 +29,10 @@ swal("Bienvenido, Gracias por tu visita", "", "success")
        $('#mi-pastores').hide();
        $("#mi-galeria").removeClass("ocultar");
        $("#mi-recursos").addClass("ocultar");
+       $("#todas-carpeta2").addClass("ocultar");
+       $("#todas-obrasSociales").addClass("ocultar");
+       $('#todas-obrasSociales').hide();
+       $("#todas-carpeta2").hide();
    }
    );
 });
@@ -43,6 +47,10 @@ swal("Bienvenido, Gracias por tu visita", "", "success")
        $('#mi-pastores').hide();
        $("#mi-galeria").addClass("ocultar");
        $("#mi-recursos").addClass("ocultar");
+       $("#todas-carpeta2").addClass("ocultar");
+       $("#todas-obrasSociales").addClass("ocultar");
+       $('#todas-obrasSociales').hide();
+       $("#todas-carpeta2").hide();
    }
    );
 });
@@ -57,6 +65,10 @@ swal("Bienvenido, Gracias por tu visita", "", "success")
        $('#mi-pastores').hide();
        $("#mi-galeria").addClass("ocultar");
        $("#mi-recursos").addClass("ocultar");
+       $("#todas-carpeta2").addClass("ocultar");
+       $("#todas-obrasSociales").addClass("ocultar");
+       $('#todas-obrasSociales').hide();
+       $("#todas-carpeta2").hide();
    }
    );
 });
@@ -71,6 +83,10 @@ swal("Bienvenido, Gracias por tu visita", "", "success")
        $('#mi-pastores').hide();
        $("#mi-galeria").addClass("ocultar");
        $("#mi-recursos").removeClass("ocultar");
+       $("#todas-carpeta2").addClass("ocultar");
+       $("#todas-obrasSociales").addClass("ocultar");
+       $('#todas-obrasSociales').hide();
+       $("#todas-carpeta2").hide();
    }
    );
 });
@@ -85,6 +101,10 @@ swal("Bienvenido, Gracias por tu visita", "", "success")
        $('#mi-pastores').hide();
        $("#mi-galeria").addClass("ocultar");
        $("#mi-recursos").addClass("ocultar");
+       $("#todas-carpeta2").addClass("ocultar");
+       $("#todas-obrasSociales").addClass("ocultar");
+       $('#todas-obrasSociales').hide();
+       $("#todas-carpeta2").hide();
    }
    );
 });
@@ -97,6 +117,43 @@ swal("Bienvenido, Gracias por tu visita", "", "success")
        $('#mi-inicio').hide();
        $('#mi-ministerios').hide();
        $('#mi-pastores').show();
+       $("#mi-galeria").addClass("ocultar");
+       $("#mi-recursos").addClass("ocultar");
+       $("#todas-carpeta2").addClass("ocultar");
+       $("#todas-obrasSociales").addClass("ocultar");
+       $('#todas-obrasSociales').hide();
+       $("#todas-carpeta2").hide();
+   }
+   );
+});
+
+$(document).ready(function(){ 
+   $('#carpeta2').on('click',function(){
+       $('#mi-galeria').hide();
+       $('#mi-nosotros').hide();
+       $('#mi-recursos').hide();
+       $('#mi-inicio').hide();
+       $('#mi-ministerios').hide();
+       $('#mi-pastores').hide();
+       $('#todas-carpeta2').show();
+       $("#todas-carpeta2").removeClass("ocultar");
+       $("#todas-obrasSociales").addClass("ocultar");
+       $("#mi-galeria").addClass("ocultar");
+       $("#mi-recursos").addClass("ocultar");
+   }
+   );
+});
+
+$(document).ready(function(){ 
+   $('#obrasSociales').on('click',function(){
+       $('#mi-galeria').hide();
+       $('#mi-nosotros').hide();
+       $('#mi-recursos').hide();
+       $('#mi-inicio').hide();
+       $('#mi-ministerios').hide();
+       $('#mi-pastores').hide();
+       $('#todas-obrasSociales').show();
+       $("#todas-carpeta2").addClass("ocultar");
        $("#mi-galeria").addClass("ocultar");
        $("#mi-recursos").addClass("ocultar");
    }

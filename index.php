@@ -46,6 +46,16 @@
         <?php include 'views/galeria/galeria.php';  ?>
       </section>
 
+      <!-- inicia galeria todas imagenes de carpeta2-->
+      <section id="fotos2">
+        <?php include 'views/galeria/todasCarpeta2.php' ?>
+      </section>
+
+      <!-- inicia galeria todas imagenes de obras sociales-->
+      <section id="obras-sociales">
+        <?php include 'views/galeria/todasObrasSociales.php' ?>
+      </section>
+
       <!-- inicia pastores -->
       <section id="pastores "  >
         <?php include 'views/pastores.php';  ?>

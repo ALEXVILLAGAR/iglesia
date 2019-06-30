@@ -1,14 +1,17 @@
-<div class="row tagline">
+<div class="row ">
 
 	<div class="col-md-4 text-center bajar border">
 		<br>
 		<h1><strong>Iglesia XXXXXXXX</strong></h1>
 		<br>
-		<strong><i class="fas fa-map-marker-alt fa-2x mr-3"> </i>  Santa Rosa de Cabal</strong>
+		<strong><i class="fas fa-map-marker-alt fa-2x mr-3"> </i> Santa Rosa de Cabal, Risaralda. 
+			<br>
+		    CRA 16 N° 18-40
+		</strong>
 		<hr>
 		<strong><i class="fas fa-envelope-open fa-2x mr-3"></i>  example@gmail.com</strong>
 		<hr>
-		<strong class="mr-5"><i class="fas fa-phone-volume fa-2x mr-3"> </i>  321 652 1716 </strong>
+		<strong class="mr-5"><i class="fas fa-phone-volume fa-2x mr-3"> </i> 57 (6) 3655317 </strong>
 		<hr>
 	</div>
     <div class="col-md-4 border bajar">

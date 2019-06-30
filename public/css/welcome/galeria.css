@@ -1,8 +1,6 @@
 .foto{
-	height: 50%;
-	width: 100%;
-	padding: .5%;
-	display: all;
+	height: 270px;
+	width: 280px;
 }
 
 .bajar{
@@ -11,4 +9,30 @@
 
 .ocultar{
 display: none;
+}
+
+.button3 {
+  text-transform: uppercase;
+  margin-left: 25%;
+  width: 50%;
+  height: 45px;
+  font-size: 15px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  color: black !important;
+  background-color: #177669;
+  border-radius: 20px;
+  box-shadow: 0px 20px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.4s ease 0s;
+  cursor: pointer;
+  outline: none;
+  border:1px solid black;
+  }
+
+.button3:hover {
+  background-color: black;
+  box-shadow: 10px 15px 20px rgba(51, 60, 100, 0.4);
+  color: white !important;
+  transform: translateY(7px);
+  border:1px solid white;
 }

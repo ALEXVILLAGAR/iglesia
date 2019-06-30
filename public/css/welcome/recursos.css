@@ -5,7 +5,7 @@ box-shadow: 7px 9px 39px -13px rgba(0,0,0,0.75);
 }
 
 .button1 {
-  width: 140px;
+  width: 170px;
   height: 45px;
   font-size: 15px;
   letter-spacing: 2px;
@@ -21,9 +21,9 @@ box-shadow: 7px 9px 39px -13px rgba(0,0,0,0.75);
   }
 
 .button1:hover {
-  background-color: #A0E7FA;
+  background-color: #177669;
   box-shadow: 10px 15px 20px rgba(51, 236, 255, 0.4);
-  color: black !important;
-  transform: translateY(7px);
+  color: white !important;
+  transform: translateY(20px);
   border:1px solid white;
 }

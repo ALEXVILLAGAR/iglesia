@@ -4,6 +4,7 @@
 
 <h3 class="col-md-12 text-center sombra bajar">Recursos</h3>
 
+<div class="row">
 <?php  
 $directorio = opendir("public/recursos/recursos1"); //ruta actual
 while ($archivo = readdir($directorio)) //obtenemos un archivo y luego otro sucesivamente
@@ -15,7 +16,7 @@ while ($archivo = readdir($directorio)) //obtenemos un archivo y luego otro suce
     else
     {
     	?>       
-  <div class="col-md-4 shadow-lg p-2 bg-white  ">
+  <div class="col-md-4 bg-white  mt-5">
     <div class="card sombra ">
       <div class="card-body text-center">
         <h5 class="card-title"><?php echo $archivo; ?></h5>
@@ -23,7 +24,10 @@ while ($archivo = readdir($directorio)) //obtenemos un archivo y luego otro suce
         <p class="card-text"> breve descripción With supporting text below as a natural lead-in to additional content.</p>
         <form action="views/recursos/descargar.php" method="POst"  enctype="multipart/form-data">
                 <input type="hidden" name="nombre" value="<?php echo $archivo ?>" />
-                <button type="submit" class="button1 sombra"><strong>Descargar</strong></button>
+                <button type="submit" class="button1 sombra"><strong>
+                    <i class="fas fa-cloud-download-alt fa-2x text-white"></i> 
+                Descargar</strong>
+            </button>
             </form>
       </div>
     </div>
@@ -33,4 +37,5 @@ while ($archivo = readdir($directorio)) //obtenemos un archivo y luego otro suce
     }
 }
 ?>
+</div>
 </div>
