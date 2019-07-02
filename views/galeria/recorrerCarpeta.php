@@ -1,4 +1,5 @@
 
+
 <?php
 
  function cuantas_fotos($carpeta = '', $cuantas)
@@ -11,7 +12,6 @@
         $i++;
     	if (preg_match('/'.'jpg'.'/', $archivo) || preg_match('/'.'gif'.'/', $archivo) || preg_match('/'.'png'.'/', $archivo)):
         ?>
-
   <img src="public/img/galeria/<?php echo $carpeta ?>/<?php echo $archivo;?>" class=" foto col-md-3 mt-4 sombra" alt="<?php echo $archivo; ?>">
 
 	 <?php 
@@ -22,23 +22,27 @@
     $dirint->close();
 } 
 
-function todas_fotos($carpeta = '')
+function todas_fotos($carpeta1 = '')
   {
-    $directory="public/img/galeria/$carpeta";
+    $directory="public/img/galeria/$carpeta1";
     $dirint = dir($directory);
-  while (($archivo = $dirint->read()) !== false){
-      if (preg_match('/'.'jpg'.'/', $archivo) || preg_match('/'.'gif'.'/', $archivo) || preg_match('/'.'png'.'/', $archivo)):
+  while (($archivo1 = $dirint->read()) !== false){
+      if (preg_match('/'.'jpg'.'/', $archivo1) || preg_match('/'.'gif'.'/', $archivo1) || preg_match('/'.'png'.'/', $archivo1)):
         ?>
-  <img src="public/img/galeria/<?php echo $carpeta ?>/<?php echo $archivo;?>" class=" foto col-md-3 mt-4 sombra" alt="<?php echo $archivo; ?>">
+          
+          <img src="public/img/galeria/<?php echo $carpeta1 ?>/<?php echo $archivo1 ?>" class="galeria__img foto sombra p-2">
+
+           
 
    <?php 
       endif;
     
 }
     unset($carpeta);
+    unset($archivo1);
     $dirint->close();
 }
 
-$carpeta='';
+
 
 ?>
