@@ -2,7 +2,7 @@
 <div class="row ocultar"  id="mi-recursos">
 
 
-<h3 class="col-md-12 text-center sombra bajar">Recursos</h3>
+<h2 class="col-md-12 text-center sombra bajar">Recursos</h2>
 
 <div class="row">
 <?php  
@@ -25,7 +25,7 @@ while ($archivo = readdir($directorio)) //obtenemos un archivo y luego otro suce
         <form action="views/recursos/descargar.php" method="POst"  enctype="multipart/form-data">
                 <input type="hidden" name="nombre" value="<?php echo $archivo ?>" />
                 <button type="submit" class="button1 sombra"><strong>
-                    <i class="fas fa-cloud-download-alt fa-2x text-white"></i> 
+                    <i class="fas fa-cloud-download-alt fa-2x "></i> 
                 Descargar</strong>
             </button>
             </form>

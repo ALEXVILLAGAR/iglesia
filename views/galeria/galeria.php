@@ -10,5 +10,7 @@
 
 <?php include 'carpeta2.php'; ?>
 
+<?php include 'casasDeFormacion.php'; ?>
+
 </div>    
 
