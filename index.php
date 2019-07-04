@@ -19,7 +19,8 @@
     <link rel="stylesheet" href="public/css/welcome/contacto.css">
     <link rel="stylesheet" href="public/css/welcome/todo.css">
     <link rel="stylesheet" href="public/css/welcome/pastores.css">
-
+    <link rel="stylesheet" href="public/css/welcome/inicio.css">
+    
     
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
@@ -34,8 +35,7 @@
 
      <!-- /inicia -->
       <header id="header" class="bajar">
-      	<img src="https://cdn4.eyeem.com/thumb/76dc0a962f3f426cf143e29cd9a0b5a11f879c76-1543536642877/w/1000" 
-         alt="" class="col-md-12" id="mi-inicio">
+      	<?php include 'views/inicio.php';  ?>
       </header>
       <!-- termina header -->
 
@@ -93,6 +93,7 @@
     <script src="public/js/bootstrap.min.js"></script>
     <script src="public/js/miJs.js"></script>
     <script src="public/js/galeria.js"></script>
+    <script src="public/js/carrusel.js"></script>
   </div>
   </body>
 </html>
