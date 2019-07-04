@@ -1,7 +1,7 @@
 .sombra{
-	-webkit-box-shadow: 7px 9px 39px -13px rgba(0,0,0,0.75);
--moz-box-shadow: 7px 9px 39px -13px rgba(0,0,0,0.75);
-box-shadow: 7px 9px 39px -13px rgba(0,0,0,0.75);
+	-webkit-box-shadow: 0px 6px 32px -13px rgba(247,244,247,1);
+-moz-box-shadow: 0px 6px 32px -13px rgba(247,244,247,1);
+box-shadow: 0px 6px 32px -13px rgba(247,244,247,1);
 }
 
 .button1 {
@@ -21,8 +21,8 @@ box-shadow: 7px 9px 39px -13px rgba(0,0,0,0.75);
   }
 
 .button1:hover {
-  background-color: #177669;
-  box-shadow: 10px 15px 20px rgba(51, 236, 255, 0.4);
+  background-color: #909495;
+  box-shadow: 2px 5px 14px rgba(255, 255, 255, 0.5);
   color: white !important;
   transform: translateY(20px);
   border:1px solid white;

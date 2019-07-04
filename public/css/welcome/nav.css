@@ -7,7 +7,7 @@
 }
 
 .trasparente1{
-	background-color: #000;
+	background-color: #2B2D2D;
 	opacity: 1;
 }
 .button {
@@ -17,20 +17,20 @@
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 500;
-  color: red !important;
-  background-color: #177669;
+  color: black !important;
+  background-color: #909495;
   border: none;
   border-radius: 20px;
-  box-shadow: 0px 20px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
   transition: all 0.4s ease 0s;
   cursor: pointer;
   outline: none;
   }
 
 .button:hover {
-  background-color: #C2A867;
-  box-shadow: 10px 15px 20px rgba(51, 236, 255, 0.4);
-  color: white;
+  background-color: #C1C7C8;
+  box-shadow: 2px 5px 14px rgba(255, 255, 255, 0.5);
+  color: black !important;
   transform: translateY(7px);
 }
 .posicion{

@@ -1,5 +1,5 @@
 
-swal("Bienvenido, Gracias por tu visita", "", "success")
+//swal("Bienvenido, Gracias por tu visita", "", "success")
 
 /**
  $("#menu").addClass("opacidad");  

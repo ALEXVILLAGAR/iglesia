@@ -3,21 +3,21 @@
 	<h2 class="col-md-12 text-center sombra ">Contacto.</h2>
 	<br>
 	<div class="row text-center">
-		<div class="card text-white bg-dark mb-3 sombra col-md-3 ml-10" style="max-width: 18rem;">
-		  <div class="card-header bg-green">
+		<div class="card text-white bg-secondary mb-3 sombra col-md-3 ml-10" style="max-width: 18rem;">
+		  <div class="card-header bg-primary2">
 		  	<strong class="text-center ml-4 mt-5"> Reunión Abuelos Felices</strong></div>
 		  <div class="card-body p-2">
 		  	<br>
 		    <h5 class="card-title text-center">Último viernes de cada mes</h5>
-		    <hr class="bg-sucess col-md-12">
+		    <br>
 		    <p class="card-text text-center">
 		                desde las 3:00 pm
 		    </p>
 		  </div>
 		</div>
 
-		<div class="card text-white bg-dark mb-3 sombra col-md-3  ml-5" style="max-width: 18rem;">
-		  <div class="card-header bg-green">
+		<div class="card text-white bg-secondary mb-3 sombra col-md-3  ml-5" style="max-width: 18rem;">
+		  <div class="card-header bg-primary2">
 		  	<strong class="text-center ml-4 mt-5"> Reuniones generales</strong></div>
 		  <div class="card-body p-2">
 		  	<br>
@@ -27,22 +27,22 @@
 		    </p>
 		    <hr class="bg-green ">
 		    <h5 class="card-title text-center">Los sábados tenemos Reunión de Juvenil “Fire Soul”</h5>
-		    <hr class="bg-sucess col-md-12">
+		    <br>
 		    <p class="card-text text-center">
 		                7:00 pm
 		    </p>
 		  </div>
 		</div>
 
-		<div class="card text-white bg-dark mb-3 sombra col-md-3 ml-5" style="max-width: 18rem;">
-		  <div class="card-header bg-green">
+		<div class="card text-white bg-secondary mb-3 sombra col-md-3 ml-5" style="max-width: 18rem;">
+		  <div class="card-header bg-primary2">
 		  	<strong class="text-center ml-4 mt-5"> Horarios de oficina
              </strong>
          </div>
 		  <div class="card-body p-2">
 		  	<br>
 		    <h5 class="card-title text-center"> Lunes a viernes: </h5>
-		    <hr class="bg-sucess col-md-12">
+		    <br>
 		    <p class="card-text text-center">
 				Mañana: 8:00 am a 12:00 pm
 				Tarde: 2:00 pm a 6:00 pm
@@ -54,8 +54,8 @@
 		  </div>
 		</div>
          
-		<div class="card col-md-12 bg-dark text-white sombra">
-  <div class="card-header bg-green">
+		<div class="card col-md-10 bg-secondary text-white ml-10 sombra">
+  <div class="card-header bg-primary2">
     <h4><strong>Domicilio</strong></h4>
   </div>
   <div class="card-body m-4">

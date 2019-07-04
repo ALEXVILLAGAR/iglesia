@@ -32,23 +32,26 @@
 		<img src="public/img/logoiglesia/logo.jpeg" width="350" class="mt-40 sombra">
 	</div>
 
-	<div class="col-md-12 text-center">
+	<div class="col-md-12 text-center bajar">
 		<strong class="col-md-4 ">
-			<a href="#" title=""><img src="public/img/logo.png" alt="" class="col-md-2"></a>
+			<a href="#" title=""><img src="public/img/logo.png" alt="" class="ml-3" width="100"></a>
 		</strong>
-		<strong class="col-md-4">
-		      <h3>Siguenos en </h3>    
-			<a href="" title=""><i class="fab fa-whatsapp fa-2x text-success"></i></a> 
-			<a href="" title=""><i class="fab fa-instagram fa-2x text-danger"></i></a>
-			<a href="" title=""><i class="fab fa-facebook-square fa-2x text-info"></i></a>
+		<strong class="col-md-4 text-center">
+		      <h6>Siguenos en </h6>    
+			<a href="" title=""><i class="fab fa-whatsapp fa-1x text-success ml-4"></i></a> 
+			<a href="" title=""><i class="fab fa-instagram fa-1x text-danger"></i></a>
+			<a href="" title=""><i class="fab fa-facebook-square fa-1x text-info"></i></a>
 		</strong>
-		<strong class="col-md-4">
-		      <h3>Contactanos </h3>    
-			<i class="fas fa-envelope-open "> example@gmail.com |</i>
+		<strong class="col-md-4 text-center">
+		      <h6>Contactanos </h6>    
+		      <h7>
+		    <i class="fas fa-envelope-open "> example@gmail.com |</i>
 			<i class="fas fa-phone-volume"> 321 652 1716 |</i>
 			<i class="fas fa-map-marker-alt"> Dir: XX-XX Local: xx Pereira </i>
+		      </h7>
+			
 		</strong>
 	</div>
 	
-	<h3 class="col-md-12 text-center bajar"><i class="fas fa-copyright "></i> 2019 <a href="" title="">LineOfCode</a> </h3>
+	<h3 class="col-md-12 text-center "><i class="fas fa-copyright "></i> 2019 <a href="" title="" class="text-white">LineOfCode</a> </h3>
 </div>

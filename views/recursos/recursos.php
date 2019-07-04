@@ -16,11 +16,11 @@ while ($archivo = readdir($directorio)) //obtenemos un archivo y luego otro suce
     else
     {
     	?>       
-  <div class="col-md-4 bg-white  mt-5">
+  <div class="col-md-4  mt-5">
     <div class="card sombra ">
-      <div class="card-body text-center">
-        <h5 class="card-title"><?php echo $archivo; ?></h5>
-        <hr class="bg-info">
+      <div class="card-body text-center bg-secondary sombra">
+        <h5 class="card-title bg-primary2"><?php echo $archivo; ?> <br></h5>
+        <hr class="bg-secondary">
         <p class="card-text"> breve descripción With supporting text below as a natural lead-in to additional content.</p>
         <form action="views/recursos/descargar.php" method="POst"  enctype="multipart/form-data">
                 <input type="hidden" name="nombre" value="<?php echo $archivo ?>" />

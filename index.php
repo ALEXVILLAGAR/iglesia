@@ -17,6 +17,8 @@
     <link rel="stylesheet" href="public/css/welcome/animate.css">
     <link rel="stylesheet" href="public/css/welcome/footer.css">
     <link rel="stylesheet" href="public/css/welcome/contacto.css">
+    <link rel="stylesheet" href="public/css/welcome/todo.css">
+    <link rel="stylesheet" href="public/css/welcome/pastores.css">
 
     
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
