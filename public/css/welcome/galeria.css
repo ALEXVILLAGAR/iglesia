@@ -108,3 +108,24 @@ display: none;
   right: 10px;
   top: 10px;
 }
+.btn-back{
+  width: 10%;
+  display: inline-block;
+  font: 50px;
+  color: black;
+  background-color: white;
+  position: fixed;
+  cursor: pointer;
+  border-radius: 100%;
+  bottom: 10px;
+  right: 10px;
+  opacity: .5;
+}
+.btn-back:hover {
+  opacity: 1;
+  background-color: black;
+  box-shadow: 10px 15px 20px rgba(51, 60, 100, 0.4);
+  color: white !important;
+  transform: translateY(4px);
+  border:1px solid white;
+}

@@ -3,18 +3,16 @@
    <div class="slider">
             <ul>
                 <li>
-  <img src="public/img/logoiglesia/logo3.jpg" alt="">
-  bienvenidos
+  <img src="public/img/logoiglesia/logo.png" alt="">
  </li>
                 <li>
-  <img src="http://youghaltennisclub.ie/wp-content/uploads/2014/06/Tennis-Wallpaper-High-Definition-700x300.jpg" alt="">
-  hola
+  <img src="http://ongonline.net/wp-content/uploads/2018/09/3-NOCHES-DE-CRUZADA.jpg" alt="">
 </li>
                 <li>
-  <img src="http://welltechnically.com/wp-content/uploads/2013/08/android-wallpapers-700x300.jpg" alt="">
+  <img src="https://i.ytimg.com/vi/Rh7L9EFrKSo/maxresdefault.jpg" alt="">
 </li>
                 <li>
-  <img src="http://welltechnically.com/wp-content/uploads/2013/09/android-widescreen-wallpaper-14165-hd-wallpapers-700x300.jpg" alt="">
+  <img src="http://blogs.uab.cat/gmartinez/files/2014/01/paper.jpg" alt="">
 </li>
             </ul>
         </div>

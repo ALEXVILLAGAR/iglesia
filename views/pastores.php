@@ -32,18 +32,18 @@
   <div class="card-header bg-secondary text-center">
   	<h4>juveniles</h4>
   	<br>
-    <img src="public/img/pastores/principales.jpg" class="img-circle">
+    <img src="public/img/pastores/juveniles.jpg" class="img-circle">
     <hr class="col-md-1">
   </div>
   <div class="card-body m-4 text-justify">
     <h5 class="card-title">
     	<p>
-         	Somos una comunidad viva, sin ánimo de
-			lucro, que proclama, practica y enseña el
-			evangelio de fe y poder, formando discípulos
-			para Nuestro Señor Jesucristo, quien es el
-			único mediador entre Dios y los hombres, con
-			el fin de bendecir a Colombia y a las naciones.
+      Pastores Yamil y Liliana Nieto.
+      <br>
+      <br>
+      Con 13 años de experiencia en el ministerio pastoral son padres de
+      2 hijos, y su ministerio tiene un énfasis en la enseñanza, la
+      formación de liderazgo y la restauración familiar.
         </p>
 </h5>
    </div>

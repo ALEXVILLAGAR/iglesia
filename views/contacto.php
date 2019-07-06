@@ -65,6 +65,14 @@
          Teléfono: 57 (6) 3655317
     </p>
    </div>
+   <div> 
+   	<h4>nuestras redes</h4>
+   	<hr class="col-md-1">
+   	<a href="https://www.youtube.com/channel/UCHArXYSb6l9-J6sCYOjDHAQ?view_as=subscriber" title="" target="blank"><i class="fab fa-youtube fa-3x text-danger"></i></a>
+   <a href="https://www.facebook.com/IICCMD/" title="" target="blank" class="ml-2"><i class="fab fa-facebook-square fa-3x text-info"></i></a>
+   <br>
+</div>
+  
 </div>
     </div>
 </div>

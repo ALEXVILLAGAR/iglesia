@@ -12,4 +12,4 @@ $(document).keyup(function(e){
   if (e.which==27) {
     $('#modal').remove();
   }
-})
+});

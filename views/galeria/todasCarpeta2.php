@@ -4,6 +4,7 @@
 <hr>
 
 
+
 <div class="row containert-fluid mt-4">
 <?php 
    
@@ -13,5 +14,7 @@
 ?>
 
 </div>
+
+<button class="btn-back sombra" id="atras"><i class="fas fa-undo-alt fa-2x"></i><h3>Atras</h3></button>
 
  </div>    

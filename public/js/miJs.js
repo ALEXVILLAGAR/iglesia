@@ -56,6 +56,44 @@
    }
    );
 });
+
+    $(document).ready(function(){ 
+   $('#atras1').on('click',function(){
+       $('#mi-galeria').show();
+       $('#mi-contacto').hide();
+       $('#mi-nosotros').hide();
+       $('#mi-recursos').hide();
+       $('#mi-inicio').hide();
+       $('#mi-ministerios').hide();
+       $('#mi-pastores').hide();
+       $("#mi-galeria").removeClass("ocultar");
+       $("#mi-recursos").addClass("ocultar");
+       $("#todas-eventos").addClass("ocultar");
+       $("#todas-obrasSociales").addClass("ocultar");
+       $('#todas-obrasSociales').hide();
+       $("#todas-eventos").hide();
+   }
+   );
+});
+
+$(document).ready(function(){ 
+   $('#atras').on('click',function(){
+       $('#mi-galeria').show();
+       $('#mi-contacto').hide();
+       $('#mi-nosotros').hide();
+       $('#mi-recursos').hide();
+       $('#mi-inicio').hide();
+       $('#mi-ministerios').hide();
+       $('#mi-pastores').hide();
+       $("#mi-galeria").removeClass("ocultar");
+       $("#mi-recursos").addClass("ocultar");
+       $("#todas-eventos").addClass("ocultar");
+       $("#todas-obrasSociales").addClass("ocultar");
+       $('#todas-obrasSociales').hide();
+       $("#todas-eventos").hide();
+   }
+   );
+});
   
     $(document).ready(function(){ 
    $('#inicio').on('click',function(){

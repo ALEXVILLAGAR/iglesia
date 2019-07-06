@@ -13,23 +13,27 @@
 		    CRA 16 N° 18-40
 		</strong>
 		<hr>
-		<strong class="sombra"><i class="fas fa-envelope-open fa-2x mr-3"></i>  example@gmail.com</strong>
+		<strong class=""><i class="fas fa-envelope-open fa-2x mr-3"></i>  example@gmail.com</strong>
 		<hr>
 		<strong class="mr-5"><i class="fas fa-phone-volume fa-2x mr-3"> </i> 57 (6) 3655317 </strong>
 		<hr>
+		<strong class="mr-5 text-center"><a href="https://www.youtube.com/channel/UCHArXYSb6l9-J6sCYOjDHAQ?view_as=subscriber" title="" target="blank"><i class="fab fa-youtube fa-2x text-danger"></i></a>
+   <a href="https://www.facebook.com/IICCMD/" title="" target="blank" class="ml-2"><i class="fab fa-facebook-square fa-2x text-info"></i></a></strong>
 	</div>
     <div class="col-md-4 border bajar">
     	<br>
     	<br>
-	<p class="text-center mt-5"><strong>"Porque yo sé los planes que tengo para vosotros"declara el SEÑOR"planes de bienestar y no de calamidad, para daros un futuro y una esperanza."
+	<p class="text-center mt-5"><strong>“La familia más pequeña se convertirá en mil personas  y el grupo
+										más diminuto se convertirá en una nación poderosa. A su debido
+											tiempo, yo, el Señor, haré que esto suceda”. 
 		<br>
 		<br>
-	Jeremías 29:11
+	Isaías 60:22.
    </strong></p>
 	</div>
 
    <div class="col-md-4 text-center bajar ">
-		<img src="public/img/logoiglesia/logo.jpeg" width="350" class="mt-40 sombra">
+		<img src="public/img/logoiglesia/logo.png" width="350" class="mt-40 sombra">
 	</div>
 
 	<div class="col-md-12 text-center bajar">
@@ -53,5 +57,5 @@
 		</strong>
 	</div>
 	
-	<h3 class="col-md-12 text-center "><i class="fas fa-copyright "></i> 2019 <a href="" title="" class="text-white">LineOfCode</a> </h3>
+	<h6 class="col-md-12 text-center "><i class="fas fa-copyright "></i> 2019 <a href="" title="" class="text-white">LineOfCode</a> </h6>
 </div>
