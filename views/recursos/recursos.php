@@ -48,6 +48,7 @@ while ($archivo = readdir($directorio)) //obtenemos un archivo y luego otro suce
 
 <div class="row">
 
+<!--
 <?php  
 $directorio = opendir("public/recursos/recursos1"); //ruta actual
 while ($archivo = readdir($directorio)) //obtenemos un archivo y luego otro sucesivamente
@@ -81,4 +82,6 @@ while ($archivo = readdir($directorio)) //obtenemos un archivo y luego otro suce
 }
 ?>
 </div>
+
+-->
 </div>

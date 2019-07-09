@@ -7,7 +7,7 @@
 .slider ul {
     display: flex;
     padding: 0;
-    width: 400%;
+    width: 500%;
     
     animation: cambio 20s infinite alternate linear;
 }
@@ -19,6 +19,11 @@
 
 .slider img {
     width: 100%;
+}
+
+.foto-carrusell{
+    width: 1000px;
+    height: 500px;
 }
 
 @keyframes cambio {

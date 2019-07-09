@@ -62,6 +62,16 @@
         <?php include 'views/galeria/todasObrasSociales.php' ?>
       </section>
 
+      <!-- inicia galeria todas imagenes de casas de formacion-->
+      <section id="obras-sociales">
+        <?php include 'views/galeria/todasCasasDeFormacion.php' ?>
+      </section>
+
+      <!-- inicia galeria todas imagenes de alabanzas-->
+      <section id="alabanzas">
+        <?php include 'views/galeria/todasAlabanzas.php' ?>
+      </section>
+
       <!-- inicia pastores -->
       <section id="pastores "  >
         <?php include 'views/pastores.php';  ?>

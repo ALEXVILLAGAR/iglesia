@@ -9,7 +9,7 @@
 ?>
 
 </div>
-  <button class="button3 mt-2" id="eventos"><strong><i class="fas fa-images fa-2x"></i> Ver todas las fotos</strong><?php $archivo='fotos2' ?></button>
+  <button class="button3 mt-2" id="casasDeFormacion"><strong><i class="fas fa-images fa-2x"></i> Ver todas las fotos</strong><?php $archivo='fotos2' ?></button>
  
 
 

@@ -5,7 +5,7 @@
 
 <div class="row text-center">
 
-	<div class="card col-md-5 bg-secondary text-white  ml-10">
+	<div class="card col-md-5 bg-secondary text-white sombra ml-10">
   <div class="card-header bg-primary2 text-center">
     <h4><strong>Misión</strong></h4>
   </div>

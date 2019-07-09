@@ -30,8 +30,16 @@ function todas_fotos($carpeta1 = '')
       if (preg_match('/'.'jpg'.'/', $archivo1) || preg_match('/'.'gif'.'/', $archivo1) || preg_match('/'.'png'.'/', $archivo1)):
         ?>
           
-          <img src="public/img/galeria/<?php echo $carpeta1 ?>/<?php echo $archivo1 ?>" class="galeria__img foto sombra p-2">
-
+          <!--<img src="public/img/galeria/<?php echo $carpeta1 ?>/<?php echo $archivo1 ?>" class="galeria__img foto sombra p-2">-->
+          <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="Im so nice"
+                   data-image="public/img/galeria/<?php echo $carpeta1 ?>/<?php echo $archivo1 ?>"
+                   data-target="#image-gallery">
+                    <img class="img-thumbnail foto"
+                         src="public/img/galeria/<?php echo $carpeta1 ?>/<?php echo $archivo1 ?>"
+                         alt="Another alt text" >
+                </a>
+            </div>
            
 
    <?php 
