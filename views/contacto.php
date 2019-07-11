@@ -26,7 +26,7 @@
 		                8:00 am y 10:30 am
 		    </p>
 		    <hr class="bg-green ">
-		    <h5 class="card-title text-center">Los sábados tenemos Reunión de Juvenil “Fire Soul”</h5>
+		    <h5 class="card-title text-center">Los sábados tenemos Reunión Juvenil “Fire Soul”</h5>
 		    <br>
 		    <p class="card-text text-center">
 		                7:00 pm

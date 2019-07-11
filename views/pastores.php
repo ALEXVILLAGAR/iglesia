@@ -33,9 +33,9 @@
   	<h4>juveniles</h4>
   	<br>
     <img src="public/img/pastores/juveniles.jpg" class="img-circle">
-    <hr class="col-md-1">
+    <hr class="col-md-1 ">
   </div>
-  <div class="card-body m-4 text-justify">
+  <div class="card-body m-4 text-justify ">
     <h5 class="card-title">
     	<p>
       Pastores Yamil y Liliana Nieto.

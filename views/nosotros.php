@@ -133,11 +133,11 @@
     <h6 class="card-title">
     <strong class="text-center">La Fe tiene dos partes importantes:</strong>
     <hr class="col-md-12">
-    <p class="text-justify">
+    <p class="">
     	<br>
     	La objetiva.
     	<hr class="col-md-1"> 
-    	s creer en el sacrificio de Cristo,
+    	Es creer en el sacrificio de Cristo,
 		hecho por toda la humanidad y fe en la palabra de
 		Dios como la revelación divina de la voluntad de
 		Dios a favor de los hombres, (Efesios 4:5).
@@ -145,7 +145,7 @@
 		<br>
 		La subjetiva.
 		<hr class="col-md-1">
-		s la seguridad y la convicción
+		Es la seguridad y la convicción
 		interior que nos lleva a confiar en Dios y su
 		palabra. Por lo cual vivimos por fe y para fe,
 		(Romanos 1:7; Hebreos 11.1) “Es pues la fe la
