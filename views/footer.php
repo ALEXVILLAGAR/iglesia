@@ -16,7 +16,8 @@
 		<i class="fas fa-phone-volume fa-2x mr-3"> </i> 57 (6) 3655317 
 		<hr>
 		<strong class="mr-5 text-center ml-5"><a href="https://www.youtube.com/channel/UCHArXYSb6l9-J6sCYOjDHAQ?view_as=subscriber" title="" target="blank"><i class="fab fa-youtube fa-2x text-danger"></i></a>
-   <a href="https://www.facebook.com/IICCMD/" title="" target="blank" class="ml-2"><i class="fab fa-facebook-square fa-2x text-info"></i></a></strong>
+        <a href="https://www.facebook.com/IICCMD/" title="" target="blank" class="ml-2"><i class="fab fa-facebook-square fa-2x text-info"></i></a>
+        </strong>
 	</div>
     <div class="col-md-4 border bajar">
     	<br>

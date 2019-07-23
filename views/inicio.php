@@ -1,4 +1,4 @@
-<div class="row bajar " id="mi-inicio">
+<div class="row bajar" id="mi-inicio">
 
    <div class="slider">
             <ul>
@@ -28,13 +28,13 @@
 
     <div class="row">
 
-      <div class="card mb-3 bg-secondary mt-5  ml-4" style="max-width: 540px;">
+      <div class=" mb-3 bg-secondary mt-5  ml-4" style="max-width: 540px;">
   <div class="row no-gutters">
     <div class="col-md-4">
       <img src="http://3.bp.blogspot.com/-Kt99ftHa-4k/TkFPP0vZBBI/AAAAAAAAAss/C83ImYqlpdA/s400/imagen+de+la+biblia.jpg" class="card-img" alt="..." width="200">
     </div>
     <div class="col-md-8 pl-5">
-      <div class="card-body">
+      <div class="-body">
         <h5 class="card-title text-center"> Escuela Mover de Dios</h5>
         <hr class="col-md-1">
         <p class="card-text">La última Escuela Mover de Dios de este año se realizará el
@@ -45,7 +45,7 @@
   </div>
 </div>
 
-<div class="card mb-3 bg-secondary mt-5  ml-5" style="max-width: 540px;">
+<div class=" mb-3 bg-secondary mt-5  ml-5" style="max-width: 540px;">
   <div class="row no-gutters">
     <div class="col-md-4">
       <img src="http://3.bp.blogspot.com/-Kt99ftHa-4k/TkFPP0vZBBI/AAAAAAAAAss/C83ImYqlpdA/s400/imagen+de+la+biblia.jpg" class="card-img" alt="..." width="200">
@@ -63,7 +63,7 @@
   </div>
 </div>
 
-<div class="card mb-3 bg-secondary mt-5  ml-4" style="max-width: 540px;">
+<div class=" mb-3 bg-secondary mt-5  ml-4" style="max-width: 540px;">
   <div class="row no-gutters">
     <div class="col-md-4">
       <img src="https://d3jkmoq0gwm4k7.cloudfront.net/blog/productos-campamento-pareja/_blogImageWidth1170/adventure-backlit-camper-776117.jpg?mtime=20190503150348" class="card-img" alt="..." width="220" height="180">
@@ -80,7 +80,7 @@
   </div>
 </div>
 
-<div class="card mb-3 bg-secondary mt-5  ml-5" style="max-width: 540px;">
+<div class=" mb-3 bg-secondary mt-5  ml-5" style="max-width: 540px;">
   <div class="row no-gutters">
     <div class="col-md-4">
       <img src="https://st4.depositphotos.com/1034372/20433/v/380/depositphotos_204332096-stock-video-the-girl-prays-girl-folded.jpg" class="card-img" alt="..." width="200" height="180">
@@ -98,7 +98,7 @@
   </div>
 </div>
 
-<div class="card mb-3 bg-secondary mt-5  ml-4" style="max-width: 540px;">
+<div class=" mb-3 bg-secondary mt-5  ml-4" style="max-width: 540px;">
   <div class="row no-gutters">
     <div class="col-md-4">
       <img src="https://st3.depositphotos.com/17302234/19432/v/600/depositphotos_194323282-stock-video-man-helping-his-friend-climb.jpg" class="card-img" alt="..." width="220" height="160">

@@ -11,6 +11,6 @@
  
 ?>
   </div>   
-<button class="btn-back sombra" id="atras2"><i class="fas fa-undo-alt fa-2x"></i><h3>Atras</h3></button>
+<button class="btn-back sombra" id="atras2"><i class="fas fa-undo-alt fa-2x"></i><h3>Atrás</h3></button>
 
  </div>   
