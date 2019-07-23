@@ -1,5 +1,5 @@
 
-<h3 class="col-md-12 text-center mt-5">Obras sociales</h3>
+<h4 class="col-md-12 text-center mt-5">Obras sociales</h4>
 <hr>
 <div class="row">
 	<?php 

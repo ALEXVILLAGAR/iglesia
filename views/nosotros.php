@@ -1,55 +1,51 @@
 <div class="row bajar ocultar" id="mi-nosotros">
 
-	<h2 class="col-md-12 text-center sombra ">Nosotros.</h2>
+	<h3 class="col-md-12 text-center  ">Nosotros.</h3>
+  <hr class="col-md-10 col-offset-1">
 	<br>
 
 <div class="row text-center">
 
-	<div class="card col-md-5 bg-secondary text-white sombra ml-10">
+	<div class=" col-md-5 bg-secondary text-white  ml-10">
   <div class="card-header bg-primary2 text-center">
-    <h4><strong>Misión</strong></h4>
+    <h5>Misión</h5>
   </div>
   <div class="card-body m-4 text-justify">
-    <h5 class="card-title">
-    	<p>
+  
+    	
          	Somos una comunidad viva, sin ánimo de
 			lucro, que proclama, practica y enseña el
 			evangelio de fe y poder, formando discípulos
 			para Nuestro Señor Jesucristo, quien es el
 			único mediador entre Dios y los hombres, con
 			el fin de bendecir a Colombia y a las naciones.
-        </p>
-</h5>
+       
    </div>
 </div>
 
-<div class="card col-md-5 bg-secondary text-white sombra ml-1">
+<div class=" col-md-5 bg-secondary text-white  ml-1">
   <div class="card-header bg-primary2 text-center">
-    <h4><strong>Visión</strong></h4>
+    <h5>Visión</h5>
   </div>
   <div class="card-body m-4 text-justify">
-    <h5 class="card-title">
-    <p>
+  
     	<br>
     	Desarrollar un avivamiento espiritual
 		permanente que genere crecimiento integral
 		en las personas para la gloria de Dios.
-    </p>
-    </h5>
+    
    </div>
 </div>
 
-<h2 class="col-md-12 text-center mt-5">Nuestros principios y valores.</h2>
+<h4 class="col-md-12 text-center mt-5">Nuestros principios y valores.</h4>
 	<hr class="col-md-1">
 	<div class="col-md-12 mt-3"></div>
 
- <div class="card col-md-5 bg-secondary text-white sombra ml-10">
+ <div class=" col-md-5 bg-secondary text-white  ml-10">
   <div class="card-header bg-primary2 text-center">
-    <h4><strong>Amor</strong></h4>
+    <h5>Amor</h5>
   </div>
   <div class="card-body m-4 text-justify">
-    <h6 class="card-title">
-    <p>
     	<br>
     	El amor es la esencia de Dios y refleja su atributo
 		y carácter, “El que no ama, no ha conocido a
@@ -62,33 +58,27 @@
 		igual manera Jesús ordena amarnos los unos a
 		los otros.
 		(Marcos 12:30-31).
-    </p>
-    </h6>
    </div>
 </div>	
 
-<div class="card col-md-5 bg-secondary text-white sombra ml-1">
+<div class=" col-md-5 bg-secondary text-white  ml-1">
   <div class="card-header bg-primary2 text-center">
-    <h4><strong>Obediencia</strong></h4>
+    <h5>Obediencia</h5>
   </div>
   <div class="card-body m-4 text-justify">
     <h6 class="card-title">
-    <p>
-    	<br>
     	Es redimir enteramente nuestra voluntad a la
 		voluntad de Dios y su palabra, siendo imitadores
 		de Jesús quien fue obediente hasta la muerte y
 		muerte de cruz, (Juan 6:38; Filipenses 2:8);
 		recordando que la obediencia refleja el amor
 		hacia Dios y trae bendiciones (Juan 14:21-24).
-    </p>
-    </h6>
    </div>
 </div>
 
-<div class="card col-md-5 bg-secondary text-white sombra ml-10 mt-2">
+<div class=" col-md-5 bg-secondary text-white  ml-10 mt-2">
   <div class="card-header bg-primary2 text-center">
-    <h4><strong>Sacrificio</strong></h4>
+    <h5>Sacrificio</h5>
   </div>
   <div class="card-body m-4 text-justify">
     <h6 class="card-title">
@@ -104,9 +94,9 @@
    </div>
 </div>
 
-<div class="card col-md-5 bg-secondary text-white sombra ml-1 mt-2">
+<div class=" col-md-5 bg-secondary text-white  ml-1 mt-2">
   <div class="card-header bg-primary2 text-center">
-    <h4><strong>Santidad</strong></h4>
+    <h5>Santidad</h5>
   </div>
   <div class="card-body m-4 text-justify">
     <h6 class="card-title">
@@ -125,13 +115,13 @@
    </div>
 </div>
 
-<div class="card col-md-10 bg-secondary text-white sombra ml-10 mt-3">
+<div class=" col-md-10 bg-secondary text-white  ml-10 mt-3">
   <div class="card-header bg-primary2 text-center">
-    <h4><strong>Fe</strong></h4>
+    <h5>Fe</h5>
   </div>
   <div class="card-body m-4 ">
     <h6 class="card-title">
-    <strong class="text-center">La Fe tiene dos partes importantes:</strong>
+    La Fe tiene dos partes importantes:
     <hr class="col-md-12">
     <p class="">
     	<br>
@@ -156,9 +146,9 @@
    </div>
 </div>
 
-<div class="card col-md-5 bg-secondary text-white sombra ml-10 mt-2">
+<div class=" col-md-5 bg-secondary text-white  ml-10 mt-2">
   <div class="card-header bg-primary2 text-center">
-    <h4><strong>Unidad</strong></h4>
+    <h5>Unidad</h5>
   </div>
   <div class="card-body m-4 text-justify">
     <h6 class="card-title">
@@ -175,9 +165,9 @@
    </div>
 </div>
 
-<div class="card col-md-5 bg-secondary text-white sombra ml-1 mt-2">
+<div class=" col-md-5 bg-secondary text-white  ml-1 mt-2">
   <div class="card-header bg-primary2 text-center">
-    <h4><strong>Integridad</strong></h4>
+    <h5>Integridad</h5>
   </div>
   <div class="card-body m-4 text-justify">
     <h6 class="card-title">
@@ -195,9 +185,9 @@
    </div>
 </div>
 
-<div class="card col-md-5 bg-secondary text-white sombra ml-10 mt-2">
+<div class=" col-md-5 bg-secondary text-white  ml-10 mt-2">
   <div class="card-header bg-primary2 text-center">
-    <h4><strong>Generosidad</strong></h4>
+    <h5>Generosidad</h5>
   </div>
   <div class="card-body m-4 text-justify">
     <h6 class="card-title">
@@ -215,9 +205,9 @@
    </div>
 </div>
 
-<div class="card col-md-5 bg-secondary text-white sombra ml-1 mt-2">
+<div class=" col-md-5 bg-secondary text-white  ml-1 mt-2">
   <div class="card-header bg-primary2 text-center">
-    <h4><strong>Compromiso</strong></h4>
+    <h5>Compromiso</h5>
   </div>
   <div class="card-body m-4 text-justify">
     <h6 class="card-title">
@@ -235,9 +225,9 @@
    </div>
 </div>
 
-<div class="card col-md-5 bg-secondary text-white sombra ml-10 mt-2">
+<div class=" col-md-5 bg-secondary text-white  ml-10 mt-2">
   <div class="card-header bg-primary2 text-center">
-    <h4><strong>Verdad</strong></h4>
+    <h5>Verdad</h5>
   </div>
   <div class="card-body m-4 text-justify">
     <h6 class="card-title">
@@ -257,9 +247,9 @@
    </div>
 </div>
 
-<div class="card col-md-5 bg-secondary text-white sombra ml-1 mt-2">
+<div class=" col-md-5 bg-secondary text-white  ml-1 mt-2">
   <div class="card-header bg-primary2 text-center">
-    <h4><strong>Humildad</strong></h4>
+    <h5>Humildad</h5>
   </div>
   <div class="card-body m-4 text-justify">
     <h6 class="card-title">
@@ -276,11 +266,11 @@
    </div>
 </div>
 
-<div class="card col-md-10 bg-secondary text-white sombra ml-10 mt-2">
+<div class=" col-md-10 bg-secondary text-white  ml-10 mt-2">
   <div class="card-header bg-primary2 text-center">
-    <h4><strong>Lealtad</strong></h4>
+    <h5>Lealtad</h5>
   </div>
-  <div class="card-body m-4 text-justify">
+  <div class="card-body m-4 text-center">
     <h6 class="card-title">
     <p>
     	<br>
@@ -292,18 +282,18 @@
    </div>
 </div>
 
-<h2 class="col-md-12 text-center mt-5">Nuestras declaraciones de fe.</h2>
+<h3 class="col-md-12 text-center mt-5">Nuestras declaraciones de fe.</h3>
 	<hr class="col-md-1">
 	<div class="col-md-12 mt-3"></div>
 
-	<div class="card col-md-10 bg-secondary text-white sombra ml-10 mt-2">
+	<div class=" col-md-10 bg-secondary text-white  ml-10 mt-2">
   <div class="card-body m-4 text-justify">
-    <h6 class="card-title">
+    <h6 class="">
     <p>
     	<br>
     	1. Creemos en la plena inspiración por el
 		Espíritu Santo de las Sagradas Escrituras
-		como regla única e infalible de fe y conducta.
+		como regla única e infalible de fe y      conducta.
 		<br>
 		<br>
 		2. Creemos en el Eterno Dios Padre, Dios

@@ -2,10 +2,11 @@
 <div class="row ocultar"  id="mi-recursos">
 
 
-<h2 class="col-md-12 text-center sombra bajar">Recursos</h2>
+<h3 class="col-md-12 text-center  bajar">Recursos</h3>
+<hr class="col-md-10 col-offset-1">
 
 <div class="row">
-    <div class="container bg-primary2 mt-5 sombra">
+    <div class="container bg-primary2 mt-5 ">
     <table id="table_id" class="display col-md-12 table-secondary">
     <thead>
         <tr>

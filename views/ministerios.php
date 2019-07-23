@@ -1,12 +1,35 @@
 <div class="row bajar" style="display:none" id="mi-ministerios">
 
-	<h2 class="col-md-12 text-center sombra ">Ministerios.</h2>
+	<h3 class="col-md-12 text-center">Ministerios.</h3>
+	<hr class="col-md-10 col-offset-1">
 	<br>
         
-         
-<div class="card col-md-10 bg-secondary text-white ml-10 sombra text-center mt-5">
-  <div class="card-header bg-primary2">
-    <h4><strong>Ministerio de alabanza Conexión Celestial.</strong></h4>
+
+<div class=" col-md-10 bg-secondary text-white ml-10  text-center mt-5">
+	<div class="card-header bg-secondary">
+    <h5>Ministerio juvenil.</h5>
+  </div>
+	<div class="row">
+  <div class="card-body m-4 col-md-6">
+  	<img src="public/img/pastores/juveniles.jpg" class="img-circle">
+	    
+   </div>
+   <div class="col-md-5">
+   	<p class="card-text text-justify py-5"> 
+   		<br>
+   		<br>
+   	 Con 13 años de experiencia en el ministerio pastoral son padres de
+     2 hijos, y su ministerio tiene un énfasis en la enseñanza, la
+     formación de liderazgo y la restauración familiar.
+	    </p>
+   </div>
+
+  </div>
+</div>
+
+<div class=" col-md-10 bg-secondary text-white ml-10  text-center mt-5">
+  <div class="card-header bg-secondary">
+    <h5>Ministerio de alabanza Conexión Celestial.</h5>
   </div>
   <div class="card-body m-4">
 	    <p class="card-text text-justify">  A través de los años en nuestra congregación, este ministerio se ha establecido con
@@ -19,9 +42,9 @@
   
 </div>
 
-<div class="card col-md-10 bg-secondary text-white ml-10 sombra text-center mt-5">
-  <div class="card-header bg-primary2">
-    <h4><strong>Ministerio de Danzas el Shaddai.</strong></h4>
+<div class=" col-md-10 bg-secondary text-white ml-10  text-center mt-5">
+  <div class="card-header bg-secondary">
+    <h5>Ministerio de Danzas el Shaddai.</h5>
   </div>
   <div class="card-body m-4">
 	    <p class="card-text text-justify">  Este ministerio ha venido dando pasos, involucrando jóvenes con un sentido de
@@ -33,9 +56,9 @@
   
 </div>
 
-<div class="card col-md-10 bg-secondary text-white ml-10 sombra text-center mt-5">
-  <div class="card-header bg-primary2">
-    <h4><strong>Ministerio Infantil Mover Kids.</strong></h4>
+<div class=" col-md-10 bg-secondary text-white ml-10  text-center mt-5">
+  <div class="card-header bg-secondary">
+    <h5>Ministerio Infantil Mover Kids.</h5>
   </div>
   <div class="card-body m-4">
 	    <p class="card-text text-justify">  Este ministerio se desarrolla, gracias a un equipo de trabajo que se ha establecido
@@ -47,9 +70,9 @@
   
 </div>
 
-<div class="card col-md-10 bg-secondary text-white ml-10 sombra text-center mt-5">
-  <div class="card-header bg-primary2">
-    <h4><strong>Ministerio de ujieres o servidores voluntarios.</strong></h4>
+<div class=" col-md-10 bg-secondary text-white ml-10  text-center mt-5">
+  <div class="card-header bg-secondary">
+    <h5>Ministerio de ujieres o servidores voluntarios.</h5>
   </div>
   <div class="card-body m-4">
 	    <p class="card-text text-justify">  Este ministerio ha venido en un proceso de cambios para prestar un excelente
@@ -62,9 +85,9 @@
   
 </div>
 
-<div class="card col-md-10 bg-secondary text-white ml-10 sombra text-center mt-5">
-  <div class="card-header bg-primary2">
-    <h4><strong>Ministerio de Teatro.</strong></h4>
+<div class=" col-md-10 bg-secondary text-white ml-10  text-center mt-5">
+  <div class="card-header bg-secondary">
+    <h5>Ministerio de Teatro.</h5>
   </div>
   <div class="card-body m-4">
 	    <p class="card-text text-justify">  Dentro de los miembros de nuestra Iglesia estamos tratando de potencializar el

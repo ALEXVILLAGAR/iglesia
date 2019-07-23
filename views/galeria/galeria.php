@@ -2,7 +2,8 @@
 
 <div class="row bajar ocultar"  id="mi-galeria">
     
-	<h2 class="col-md-12 text-center sombra">Nuestras Fotos</h2>
+	<h3 class="col-md-12 text-center ">Nuestras Fotos</h3>
+    <hr class="col-md-10 col-offset-1">
 
 <?php include 'recorrerCarpeta.php'; ?>
 

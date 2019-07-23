@@ -1,6 +1,6 @@
 
 
-<h3 class="col-md-12 text-center mt-5">Eventos</h3>
+<h4 class="col-md-12 text-center mt-5">Eventos</h4>
 <hr>
 
 <div class="row mt-4">

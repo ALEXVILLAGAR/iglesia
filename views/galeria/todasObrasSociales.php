@@ -1,8 +1,8 @@
 
 <div class="row bajar ocultar"  id="todas-obrasSociales">
 	
-<h2 class="col-md-12 text-center mt-5 sombra">Obras sociales</h2>
-<hr>
+<h3 class="col-md-12 text-center mt-5 ">Obras sociales</h3>
+<hr class="col-md-10 col-offset-1">
 
 <div class="row mt-4">
 <?php 

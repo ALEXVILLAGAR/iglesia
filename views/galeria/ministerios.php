@@ -1,8 +1,8 @@
 
-<h3 class="col-md-12 text-center mt-5">Ministerios</h3>
+<h4 class="col-md-12 text-center mt-5">Ministerios</h4>
 <hr>
 
-<h3 class="col-md-12 text-center mt-5">Alabanza</h3>
+<h5 class="col-md-12 text-center mt-5">Alabanza</h5>
 <hr class="col-md-1">
 
 <div class="row mt-4">
@@ -15,7 +15,7 @@
   <button class="button3 mt-2" id="alabanza"><strong><i class="fas fa-images fa-2x"></i> Ver todas las fotos</strong>
   	<?php $archivo='fotos2' ?></button>
  
-<h3 class="col-md-12 text-center mt-5">Danzas</h3>
+<h5 class="col-md-12 text-center mt-5">Danzas</h5>
 <hr class="col-md-1">
 
 <div class="row mt-4">
@@ -28,7 +28,7 @@
   <button class="button3 mt-2" id="danzas"><strong><i class="fas fa-images fa-2x"></i> Ver todas las fotos</strong>
   	<?php $archivo='fotos2' ?></button>
 
-<h3 class="col-md-12 text-center mt-5">Infantil</h3>
+<h5 class="col-md-12 text-center mt-5">Infantil</h5>
 <hr class="col-md-1">
 
 <div class="row mt-4">
@@ -42,7 +42,7 @@
   	<?php $archivo='fotos2' ?></button>
 
 
-<h3 class="col-md-12 text-center mt-5">Ujieres</h3>
+<h5 class="col-md-12 text-center mt-5">Ujieres</h5>
 <hr class="col-md-1">
 
 <div class="row mt-4">

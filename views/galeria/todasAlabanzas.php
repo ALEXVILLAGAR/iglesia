@@ -1,7 +1,7 @@
 <div class="row bajar ocultar"  id="todas-alabanzas">
 	
-<h2 class="col-md-12 text-center mt-5 sombra">Alabanzas</h2>
-<hr>
+<h3 class="col-md-12 text-center mt-5 ">Alabanzas</h3>
+<hr class="col-md-10 col-offset-1">
 
 <div class="row mt-4">
 <?php 

@@ -12,7 +12,7 @@
         $i++;
     	if (preg_match('/'.'jpg'.'/', $archivo) || preg_match('/'.'gif'.'/', $archivo) || preg_match('/'.'png'.'/', $archivo)):
         ?>
-  <img src="public/img/galeria/<?php echo $carpeta ?>/<?php echo $archivo;?>" class=" foto col-md-3 mt-4 sombra" alt="<?php echo $archivo; ?>">
+  <img src="public/img/galeria/<?php echo $carpeta ?>/<?php echo $archivo;?>" class=" foto col-md-3 mt-4 " alt="<?php echo $archivo; ?>">
 
 	 <?php 
       endif;

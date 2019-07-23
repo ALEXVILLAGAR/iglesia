@@ -3,33 +3,31 @@
 
 	<div class="col-md-4 text-center bajar border ">
 		<br>
-		<h2 class=""><strong>Iglesia Mover de Dios <br>
-		    </strong>
+		<h4 class="">Iglesia Mover de Dios <br>
 		    <p>cruzada cristiana.</p>
-		</h2>
+		</h4>
 		<br>
-		<strong><i class="fas fa-map-marker-alt fa-2x mr-3"> </i> Santa Rosa de Cabal, Risaralda. 
+		<i class="fas fa-map-marker-alt fa-2x mr-3"> </i> Santa Rosa de Cabal, Risaralda. 
 			<br>
 		    CRA 16 N° 18-40
-		</strong>
 		<hr>
-		<strong class=""><i class="fas fa-envelope-open fa-2x mr-3"></i>  example@gmail.com</strong>
+		<i class="fas fa-envelope-open fa-2x mr-3"></i>  example@gmail.com
 		<hr>
-		<strong class="mr-5"><i class="fas fa-phone-volume fa-2x mr-3"> </i> 57 (6) 3655317 </strong>
+		<i class="fas fa-phone-volume fa-2x mr-3"> </i> 57 (6) 3655317 
 		<hr>
-		<strong class="mr-5 text-center"><a href="https://www.youtube.com/channel/UCHArXYSb6l9-J6sCYOjDHAQ?view_as=subscriber" title="" target="blank"><i class="fab fa-youtube fa-2x text-danger"></i></a>
+		<strong class="mr-5 text-center ml-5"><a href="https://www.youtube.com/channel/UCHArXYSb6l9-J6sCYOjDHAQ?view_as=subscriber" title="" target="blank"><i class="fab fa-youtube fa-2x text-danger"></i></a>
    <a href="https://www.facebook.com/IICCMD/" title="" target="blank" class="ml-2"><i class="fab fa-facebook-square fa-2x text-info"></i></a></strong>
 	</div>
     <div class="col-md-4 border bajar">
     	<br>
     	<br>
-	<p class="text-center mt-5"><strong>“La familia más pequeña se convertirá en mil personas  y el grupo
+	<p class="text-center mt-5">“La familia más pequeña se convertirá en mil personas  y el grupo
 										más diminuto se convertirá en una nación poderosa. A su debido
 											tiempo, yo, el Señor, haré que esto suceda”. 
 		<br>
 		<br>
 	Isaías 60:22.
-   </strong></p>
+   </p>
 	</div>
 
    <div class="col-md-4 text-center bajar ">
