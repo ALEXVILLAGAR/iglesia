@@ -72,6 +72,16 @@
         <?php include 'views/galeria/todasAlabanzas.php' ?>
       </section>
 
+      <!-- inicia galeria todas imagenes de infaltil-->
+      <section id="infantil">
+        <?php include 'views/galeria/todasinfantil.php' ?>
+      </section>
+
+      <!-- inicia galeria todas imagenes de ujieres-->
+      <section id="infantil">
+        <?php include 'views/galeria/todasUjieres.php' ?>
+      </section>
+
       <!-- inicia pastores -->
       <section id="pastores "  >
         <?php include 'views/pastores.php';  ?>

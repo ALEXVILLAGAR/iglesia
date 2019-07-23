@@ -11,7 +11,7 @@
 
 <?php include 'carpeta2.php'; ?>
 
-<?php include 'casasDeFormacion.php'; ?>
+<!-- <?php include 'casasDeFormacion.php'; ?> -->
 
 <?php include 'ministerios.php'; ?>
 

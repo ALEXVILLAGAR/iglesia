@@ -4,7 +4,7 @@
 	<hr class="col-md-10 col-offset-1">
 	<br>
 	<div class="row text-center">
-		<div class="card text-white bg-secondary mb-3  col-md-3 ml-10" style="max-width: 18rem;">
+		<div class=" text-white bg-secondary mb-3  col-md-3 ml-10" style="max-width: 18rem;">
 		  <div class="card-header bg-primary2">
 		  	<h5 class="text-center ml-4"> Reunión Abuelos Felices</h5></div>
 		  <div class="card-body p-2">
@@ -17,7 +17,7 @@
 		  </div>
 		</div>
 
-		<div class="card text-white bg-secondary mb-3  col-md-3  ml-5" style="max-width: 18rem;">
+		<div class=" text-white bg-secondary mb-3  col-md-3  ml-5" style="max-width: 18rem;">
 		  <div class="card-header bg-primary2">
 		  	<h5 class="text-center ml-4 mt-3"> Reuniones generales</h5></div>
 		  <div class="card-body p-2">
@@ -35,7 +35,7 @@
 		  </div>
 		</div>
 
-		<div class="card text-white bg-secondary mb-3  col-md-3 ml-5" style="max-width: 18rem;">
+		<div class=" text-white bg-secondary mb-3  col-md-3 ml-5" style="max-width: 18rem;">
 		  <div class="card-header bg-primary2">
 		  	<h5 class="text-center ml-4 mt-3"> Horarios de oficina
              </h5>

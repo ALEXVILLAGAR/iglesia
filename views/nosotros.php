@@ -66,7 +66,7 @@
     <h5>Obediencia</h5>
   </div>
   <div class="card-body m-4 text-justify">
-    <h6 class="card-title">
+    <br>
     	Es redimir enteramente nuestra voluntad a la
 		voluntad de Dios y su palabra, siendo imitadores
 		de Jesús quien fue obediente hasta la muerte y
@@ -81,7 +81,6 @@
     <h5>Sacrificio</h5>
   </div>
   <div class="card-body m-4 text-justify">
-    <h6 class="card-title">
     <p>
     	<br>
     	La escritura enuncia que debemos presentar todo
@@ -90,7 +89,6 @@
 		las pruebas, persecuciones o escasez (Romanos
 		12:1; Mateo 16:24).
     </p>
-    </h6>
    </div>
 </div>
 
@@ -99,7 +97,6 @@
     <h5>Santidad</h5>
   </div>
   <div class="card-body m-4 text-justify">
-    <h6 class="card-title">
     <p>
     	<br>
     	La santidad es una expresión de la consagración
@@ -111,7 +108,6 @@
 		no tengamos nada que ver con el pecado,
 		(Levítico 20:26; Efesios 1:4).
     </p>
-    </h6>
    </div>
 </div>
 
@@ -120,7 +116,6 @@
     <h5>Fe</h5>
   </div>
   <div class="card-body m-4 ">
-    <h6 class="card-title">
     La Fe tiene dos partes importantes:
     <hr class="col-md-12">
     <p class="">
@@ -142,7 +137,6 @@
 		certeza de los que se espera, la convicción de lo
 		que no se ve”.
     </p>
-    </h6>
    </div>
 </div>
 
@@ -151,7 +145,6 @@
     <h5>Unidad</h5>
   </div>
   <div class="card-body m-4 text-justify">
-    <h6 class="card-title">
     <p>
     	<br>
     	La unidad es una exigencia de Cristo para su
@@ -161,7 +154,6 @@
 		unidad en medio de la diversidad.
 		(Juan 17:21-23; Colosenses 3:11).
     </p>
-    </h6>
    </div>
 </div>
 
@@ -170,7 +162,6 @@
     <h5>Integridad</h5>
   </div>
   <div class="card-body m-4 text-justify">
-    <h6 class="card-title">
     <p>
     	<br>
     	Somos llamados a ser íntegros; entendiéndose
@@ -181,7 +172,6 @@
 		recta con sus semejantes en su comportamiento,
 		sincera en todo. (Salmos 15:2 y 101:2; tito 2:7).
     </p>
-    </h6>
    </div>
 </div>
 
@@ -190,7 +180,6 @@
     <h5>Generosidad</h5>
   </div>
   <div class="card-body m-4 text-justify">
-    <h6 class="card-title">
     <p>
     	<br>
     	Como hijos de Dios nos corresponde practicar la
@@ -201,7 +190,6 @@
 		bendiciones a quien lo hace. (Salmos 41:1-13;
 		Proverbios 19:17).
     </p>
-    </h6>
    </div>
 </div>
 
@@ -210,7 +198,6 @@
     <h5>Compromiso</h5>
   </div>
   <div class="card-body m-4 text-justify">
-    <h6 class="card-title">
     <p>
     	<br>
     	El compromiso es un acuerdo voluntario; pacto o
@@ -221,7 +208,6 @@
 		del evangelio, llevando una vida dedicada a Dios.
 		(1Corintios 9:16b).
 		    </p>
-    </h6>
    </div>
 </div>
 
@@ -230,7 +216,6 @@
     <h5>Verdad</h5>
   </div>
   <div class="card-body m-4 text-justify">
-    <h6 class="card-title">
     <p>
     	<br>
     	La verdad es la conformidad de las cosas o el
@@ -243,7 +228,6 @@
 		vivencia de la verdad. (Efesios 4:25; Zacarías
 		8:16).
 		    </p>
-    </h6>
    </div>
 </div>
 
@@ -252,7 +236,6 @@
     <h5>Humildad</h5>
   </div>
   <div class="card-body m-4 text-justify">
-    <h6 class="card-title">
     <p>
     	<br>
     	La humildad se muestra en el servicio a Dios y a
@@ -262,7 +245,6 @@
 		siervo, sin esperar nada a cambio. (Mateo 20:25-
 		28; Hechos 20:19; Proverbios 22:4).
     </p>
-    </h6>
    </div>
 </div>
 
@@ -271,14 +253,12 @@
     <h5>Lealtad</h5>
   </div>
   <div class="card-body m-4 text-center">
-    <h6 class="card-title">
     <p>
     	<br>
     	Es la fidelidad primeramente a Dios, luego a la
 		familia, iglesia e institución en la cual servimos,
 		(Jeremías 42:5).
     </p>
-    </h6>
    </div>
 </div>
 
@@ -288,7 +268,6 @@
 
 	<div class=" col-md-10 bg-secondary text-white  ml-10 mt-2">
   <div class="card-body m-4 text-justify">
-    <h6 class="">
     <p>
     	<br>
     	1. Creemos en la plena inspiración por el
@@ -353,7 +332,6 @@
 		Señor Jesucristo y regenerados por el
 		Espíritu Santo.
     </p>
-    </h6>
    </div>
 </div>
 

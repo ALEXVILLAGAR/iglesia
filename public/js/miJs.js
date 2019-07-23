@@ -36,6 +36,8 @@
        $("#todas-obrasSociales").addClass("ocultar");
        $('#todas-obrasSociales').hide();
        $("#todas-eventos").hide();
+       $('#todas-infantil').hide();
+       $('#todas-ujieres').hide();
    }
    );
 });
@@ -57,6 +59,83 @@
        $("#todas-obrasSociales").addClass("ocultar");
        $('#todas-obrasSociales').hide();
        $("#todas-eventos").hide();
+       $('#todas-infantil').hide();
+       $('#todas-ujieres').hide();
+   }
+   );
+});
+
+$(document).ready(function(){ 
+   $('#atras5').on('click',function(){
+       window.scrollTo(0,0);
+       $('#mi-galeria').show();
+       $('#todas-alabanzas').hide();
+       $('#todas-casasDeFormacion').hide();
+       $('#mi-contacto').hide();
+       $('#mi-nosotros').hide();
+       $('#mi-recursos').hide();
+       $('#mi-inicio').hide();
+       $('#mi-ministerios').hide();
+       $('#mi-pastores').hide();
+       $("#mi-galeria").removeClass("ocultar");
+       $("#mi-recursos").addClass("ocultar");
+       $("#todas-eventos").addClass("ocultar");
+       $("#todas-obrasSociales").addClass("ocultar");
+       $("#todas-infantil").addClass("ocultar");
+       $('#todas-obrasSociales').hide();
+       $("#todas-eventos").hide();
+       $("#todas-infantil").hide();
+       $('#todas-ujieres').hide();
+   }
+   );
+});
+
+$(document).ready(function(){ 
+   $('#atras4').on('click',function(){
+       window.scrollTo(0,0);
+       $('#mi-galeria').show();
+       $('#todas-alabanzas').hide();
+       $('#todas-casasDeFormacion').hide();
+       $('#mi-contacto').hide();
+       $('#mi-nosotros').hide();
+       $('#mi-recursos').hide();
+       $('#mi-inicio').hide();
+       $('#mi-ministerios').hide();
+       $('#mi-pastores').hide();
+       $("#mi-galeria").removeClass("ocultar");
+       $("#mi-recursos").addClass("ocultar");
+       $("#todas-eventos").addClass("ocultar");
+       $("#todas-obrasSociales").addClass("ocultar");
+       $("#todas-infantil").addClass("ocultar");
+       $('#todas-obrasSociales').hide();
+       $("#todas-eventos").hide();
+       $("#todas-infantil").hide();
+       $('#todas-ujieres').hide();
+   }
+   );
+});
+
+$(document).ready(function(){ 
+   $('#atras3').on('click',function(){
+       window.scrollTo(0,0);
+       $('#mi-galeria').show();
+       $('#todas-alabanzas').hide();
+       $('#todas-casasDeFormacion').hide();
+       $('#mi-contacto').hide();
+       $('#mi-nosotros').hide();
+       $('#mi-recursos').hide();
+       $('#mi-inicio').hide();
+       $('#mi-ministerios').hide();
+       $('#mi-pastores').hide();
+       $("#mi-galeria").removeClass("ocultar");
+       $("#mi-recursos").addClass("ocultar");
+       $("#todas-eventos").addClass("ocultar");
+       $("#todas-obrasSociales").addClass("ocultar");
+       $("#todas-infantil").addClass("ocultar");
+       $('#todas-obrasSociales').hide();
+       $("#todas-eventos").hide();
+       $("#todas-infantil").hide();
+       $('#todas-ujieres').hide();
    }
    );
 });
@@ -79,6 +158,8 @@
        $("#todas-obrasSociales").addClass("ocultar");
        $('#todas-obrasSociales').hide();
        $("#todas-eventos").hide();
+       $('#todas-infantil').hide();
+       $('#todas-ujieres').hide();
    }
    );
 });
@@ -101,6 +182,8 @@
        $("#todas-obrasSociales").addClass("ocultar");
        $('#todas-obrasSociales').hide();
        $("#todas-eventos").hide();
+       $('#todas-infantil').hide();
+       $('#todas-ujieres').hide();
    }
    );
 });
@@ -123,6 +206,8 @@ $(document).ready(function(){
        $("#todas-obrasSociales").addClass("ocultar");
        $('#todas-obrasSociales').hide();
        $("#todas-eventos").hide();
+       $('#todas-infantil').hide();
+       $('#todas-ujieres').hide();
    }
    );
 });
@@ -144,6 +229,8 @@ $(document).ready(function(){
        $("#todas-obrasSociales").addClass("ocultar");
        $('#todas-obrasSociales').hide();
        $("#todas-eventos").hide();
+       $('#todas-infantil').hide();
+       $('#todas-ujieres').hide();
    }
    );
 });
@@ -165,6 +252,8 @@ $(document).ready(function(){
        $("#todas-obrasSociales").addClass("ocultar");
        $('#todas-obrasSociales').hide();
        $("#todas-eventos").hide();
+       $('#todas-infantil').hide();
+       $('#todas-ujieres').hide();
    }
    );
 });
@@ -186,6 +275,8 @@ $(document).ready(function(){
        $("#todas-obrasSociales").addClass("ocultar");
        $('#todas-obrasSociales').hide();
        $("#todas-eventos").hide();
+       $('#todas-infantil').hide();
+       $('#todas-ujieres').hide();
    }
    );
 });
@@ -207,6 +298,8 @@ $(document).ready(function(){
        $("#todas-obrasSociales").addClass("ocultar");
        $('#todas-obrasSociales').hide();
        $("#todas-eventos").hide();
+       $('#todas-infantil').hide();
+       $('#todas-ujieres').hide();
    }
    );
 });
@@ -228,6 +321,8 @@ $(document).ready(function(){
        $("#todas-obrasSociales").addClass("ocultar");
        $('#todas-obrasSociales').hide();
        $("#todas-eventos").hide();
+       $('#todas-infantil').hide();
+       $('#todas-ujieres').hide();
    }
    );
 });
@@ -249,6 +344,8 @@ $(document).ready(function(){
        $("#todas-obrasSociales").addClass("ocultar");
        $("#mi-galeria").addClass("ocultar");
        $("#mi-recursos").addClass("ocultar");
+       $('#todas-infantil').hide();
+       $('#todas-ujieres').hide();
    }
    );
 });
@@ -266,8 +363,52 @@ $(document).ready(function(){
        $('#mi-pastores').hide();
        $('#todas-alabanzas').show();
        $('#todas-eventos').hide();
+       $('#todas-infantil').hide();
        $("#todas-eventos").removeClass("ocultar");
        $("#todas-obrasSociales").addClass("ocultar");
+       $("#mi-galeria").addClass("ocultar");
+       $("#mi-recursos").addClass("ocultar");
+       $('#todas-ujieres').hide();
+   }
+   );
+});
+
+$(document).ready(function(){ 
+   $('#infantil').on('click',function(){
+       window.scrollTo(0,0);
+       $('#mi-galeria').hide();
+       $('#todas-casasDeFormacion').hide();
+       $('#mi-contacto').hide();
+       $('#mi-nosotros').hide();
+       $('#mi-recursos').hide();
+       $('#mi-inicio').hide();
+       $('#mi-ministerios').hide();
+       $('#mi-pastores').hide();
+       $('#todas-alabanzas').hide();
+       $('#todas-infantil').show();
+       $('#todas-eventos').hide();
+       $("#mi-galeria").addClass("ocultar");
+       $("#mi-recursos").addClass("ocultar");
+       $('#todas-ujieres').hide();
+   }
+   );
+}); 
+
+$(document).ready(function(){ 
+   $('#ujieres').on('click',function(){
+       window.scrollTo(0,0);
+       $('#mi-galeria').hide();
+       $('#todas-casasDeFormacion').hide();
+       $('#mi-contacto').hide();
+       $('#mi-nosotros').hide();
+       $('#mi-recursos').hide();
+       $('#mi-inicio').hide();
+       $('#mi-ministerios').hide();
+       $('#mi-pastores').hide();
+       $('#todas-alabanzas').hide();
+       $('#todas-infantil').hide();
+       $('#todas-ujieres').show();
+       $('#todas-eventos').hide();
        $("#mi-galeria").addClass("ocultar");
        $("#mi-recursos").addClass("ocultar");
    }
@@ -290,6 +431,8 @@ $(document).ready(function(){
        $("#todas-eventos").addClass("ocultar");
        $("#mi-galeria").addClass("ocultar");
        $("#mi-recursos").addClass("ocultar");
+       $('#todas-infantil').hide();
+       $('#todas-ujieres').hide();
    }
    );
 });
@@ -310,6 +453,8 @@ $(document).ready(function(){
        $("#todas-eventos").addClass("ocultar");
        $("#mi-galeria").addClass("ocultar");
        $("#mi-recursos").addClass("ocultar");
+       $('#todas-infantil').hide();
+       $('#todas-ujieres').hide();
    }
    );
 });

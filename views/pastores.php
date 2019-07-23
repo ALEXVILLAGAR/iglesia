@@ -7,7 +7,7 @@
 
 <div class="row">
 
-	<div class="card col-md-10 bg-secondary text-white  ml-10 mt-5">
+	<div class=" col-md-10 bg-secondary text-white  ml-10 mt-5">
     <div class="row">
   <div class="card-header bg-secondary text-center col-md-6">
   	<br>
