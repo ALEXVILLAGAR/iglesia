@@ -11,7 +11,7 @@
 			<br>
 		    CRA 16 N° 18-40
 		<hr>
-		<i class="fas fa-envelope-open fa-2x mr-3"></i>  example@gmail.com
+		<i class="fas fa-envelope-open fa-2x mr-3"></i>  iccmover@gmail.com
 		<hr>
 		<i class="fas fa-phone-volume fa-2x mr-3"> </i> 57 (6) 3655317 
 		<hr>
@@ -32,12 +32,12 @@
 	</div>
 
    <div class="col-md-4 text-center bajar ">
-		<img src="public/img/logoiglesia/logo.png" width="350" class="mt-40 sombra">
+		<img src="public/img/logoIglesia/logofinal.jpg" width="350" class="mt-40 sombra">
 	</div>
 
 	<div class="col-md-12 text-center bajar">
 		<strong class="col-md-4 ">
-			<a href="#" title=""><img src="public/img/logo.png" alt="" class="ml-3" width="100"></a>
+			<a href="#" title=""><img src="public/img/Logo.png" alt="" class="ml-3" width="100"></a>
 		</strong>
 		<strong class="col-md-4 text-center">
 		      <h6>Siguenos en </h6>    
@@ -48,9 +48,9 @@
 		<strong class="col-md-4 text-center">
 		      <h6>Contactanos </h6>    
 		      <h7>
-		    <i class="fas fa-envelope-open "> example@gmail.com |</i>
+		    <i class="fas fa-envelope-open "> lineofcodecolombia@gmail.com |</i>
 			<i class="fas fa-phone-volume"> 321 652 1716 |</i>
-			<i class="fas fa-map-marker-alt"> Dir: XX-XX Local: xx Pereira </i>
+			<i class="fas fa-map-marker-alt"> Dir: Carrera 27 #10-02, Pereira, Risaralda </i>
 		      </h7>
 			
 		</strong>
