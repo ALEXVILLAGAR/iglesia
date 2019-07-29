@@ -74,7 +74,7 @@
 
       <!-- inicia galeria todas imagenes de infaltil-->
       <section id="infantil">
-        <?php include 'views/galeria/todasinfantil.php' ?>
+        <?php include 'views/galeria/todasInfantil.php' ?>
       </section>
 
       <!-- inicia galeria todas imagenes de ujieres-->

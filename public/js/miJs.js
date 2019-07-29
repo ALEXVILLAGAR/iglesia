@@ -236,6 +236,29 @@ $(document).ready(function(){
 });
 
     $(document).ready(function(){ 
+   $('#inicio1').on('click',function(){
+       $('#mi-galeria').hide();
+       $('#todas-casasDeFormacion').hide();
+       $('#mi-contacto').hide();
+       $('#todas-alabanzas').hide();
+       $('#mi-nosotros').hide();
+       $('#mi-recursos').hide();
+       $('#mi-inicio').show();
+       $('#mi-ministerios').hide();
+       $('#mi-pastores').hide();
+       $("#mi-galeria").addClass("ocultar");
+       $("#mi-recursos").addClass("ocultar");
+       $("#todas-eventos").addClass("ocultar");
+       $("#todas-obrasSociales").addClass("ocultar");
+       $('#todas-obrasSociales').hide();
+       $("#todas-eventos").hide();
+       $('#todas-infantil').hide();
+       $('#todas-ujieres').hide();
+   }
+   );
+});
+
+    $(document).ready(function(){ 
    $('#nosotros').on('click',function(){
        $('#mi-galeria').hide();
        $('#todas-casasDeFormacion').hide();
