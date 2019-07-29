@@ -22,7 +22,7 @@
 		  	<h5 class="text-center ml-4 mt-3"> Reuniones generales</h5></div>
 		  <div class="card-body p-2">
 		  	<br>
-		    <h6 class="card-title text-center mt-2">Los domingos tenemos Escuela dominical para niños</h6>
+		    <h6 class="card-title text-center mt-2">Los domingos tenemos reuniones familiares.</h6>
 		    <p class="card-text text-center">
 		                8:00 am y 10:30 am
 		    </p>

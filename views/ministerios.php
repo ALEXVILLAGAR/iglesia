@@ -11,7 +11,7 @@
   </div>
 	<div class="row">
   <div class="card-body m-4 col-md-6">
-  	<img src="public/img/pastores/juveniles.jpg" class="img-circle">
+  	<img src="public/img/pastores/Juveniles.jpg" class="img-circle">
 	    
    </div>
    <div class="col-md-5">

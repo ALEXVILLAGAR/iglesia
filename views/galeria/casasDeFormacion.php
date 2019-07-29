@@ -5,7 +5,7 @@
 <div class="row mt-4">
   <?php 
    $casas = 'cuantas_fotos';
-   $casas('casasDeFormacion',4);  // Esto llama a cuantas_fotos
+   $casas('casasDeFormacion',3);  // Esto llama a cuantas_fotos
 ?>
 
 </div>

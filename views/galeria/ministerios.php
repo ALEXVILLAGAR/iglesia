@@ -8,7 +8,7 @@
 <div class="row mt-4">
   <?php 
    $casas = 'cuantas_fotos';
-   $casas('ministerios/alabanza',4);  // Esto llama a cuantas_fotos
+   $casas('ministerios/alabanza',3);  // Esto llama a cuantas_fotos
 ?>
 
 </div>
@@ -21,7 +21,7 @@
 <div class="row mt-4">
   <?php 
    $casas = 'cuantas_fotos';
-   $casas('ministerios/Danzas',4);  // Esto llama a cuantas_fotos
+   $casas('ministerios/Danzas',3);  // Esto llama a cuantas_fotos
 ?>
 
 </div>
@@ -34,7 +34,7 @@
 <div class="row mt-4">
   <?php 
    $casas = 'cuantas_fotos';
-   $casas('ministerios/infantil',4);  // Esto llama a cuantas_fotos
+   $casas('ministerios/infantil',3);  // Esto llama a cuantas_fotos
 ?>
 
 </div>
@@ -48,7 +48,7 @@
 <div class="row mt-4">
   <?php 
    $casas = 'cuantas_fotos';
-   $casas('ministerios/Ujieres',4);  // Esto llama a cuantas_fotos
+   $casas('ministerios/Ujieres',3);  // Esto llama a cuantas_fotos
 ?>
 
 </div>

@@ -4,7 +4,7 @@
 <div class="row">
 	<?php 
    $func = 'cuantas_fotos';
-   $func('obras-sociales',4);  // Esto llama a cuantas_fotos()
+   $func('obras-sociales',3);  // Esto llama a cuantas_fotos()
 ?>
 
 </div>
