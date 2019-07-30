@@ -1,11 +1,11 @@
-<div class="">
-  <nav id="menu" class="navbar navbar-toggleable-md navbar-inverse fixed-top trasparente1 ">
-      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" id="menu">
+<div class="row">
+  <nav id="menu" class="navbar navbar-toggleable-md navbar-inverse fixed-top trasparente1 col-md-12">
+      <button class="navbar-toggler navbar-toggler-right " type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" id="menu">
         <span class="navbar-toggler-icon"></span>
       </button>
-      <a class="navbar-brand" href="#"><img src="public/img/logoIglesia/logo.png" width="230" id="inicio1"></a>
+      <a class="navbar-brand" href="#"><img src="public/img/logoIglesia/logo.png" id="inicio1" class="logomenu"></a>
 
-      <div class="collapse navbar-collapse posicion" id="navbarSupportedContent">
+      <div class="collapse navbar-collapse " id="navbarSupportedContent">
         <ul class="navbar-nav ">
           <li class="nav-item active button text-center ml-1 ">
             <a class="nav-link" href="#" id="inicio">Inicio <span class="sr-only">(current)</span></a>

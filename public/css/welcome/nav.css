@@ -34,7 +34,7 @@
   transform: translateY(7px);
 }
 .posicion{
-	position: relative;
+	position: absolute;
 	left: 0%;
 }
 .opacidad{
@@ -42,4 +42,7 @@
 }
 .tamaño{
   width: 100%;
+}
+.logomenu{
+  width: 220px;
 }

@@ -9,6 +9,9 @@
 
 </div>
 
-<button class="button3 mt-2" id="obrasSociales"><strong><i class="fas fa-images fa-2x"></i> Ver todas las fotos</strong>
+<div class="row">
+	<button class="button3 mt-2 col-md-8 offset-2" id="obrasSociales"><strong><i class="fas fa-images fa-2x"></i> Ver todas las fotos</strong>
 </button>
+</div>
+
 

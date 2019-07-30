@@ -1,7 +1,7 @@
 
 <div class="row ">
 
-	<div class="col-md-4 text-center bajar border ">
+	<div class="col-md-4 text-center bajar  sombra">
 		<br>
 		<h4 class="">Iglesia Mover de Dios <br>
 		    <p>cruzada cristiana.</p>
@@ -19,7 +19,7 @@
         <a href="https://www.facebook.com/IICCMD/" title="" target="blank" class="ml-2"><i class="fab fa-facebook-square fa-2x text-info"></i></a>
         </strong>
 	</div>
-    <div class="col-md-4 border bajar">
+    <div class="col-md-4 sombra bajar">
     	<br>
     	<br>
 	<p class="text-center mt-5">“La familia más pequeña se convertirá en mil personas  y el grupo
@@ -31,8 +31,8 @@
    </p>
 	</div>
 
-   <div class="col-md-4 text-center bajar ">
-		<img src="public/img/logoIglesia/logo.png" width="350" class="mt-40 sombra">
+   <div class="col-md-4 text-center bajar sombra">
+		<img src="public/img/logoIglesia/logo.png" width="350" class="mt-40 ">
 	</div>
 
 	<div class="col-md-12 text-center bajar">
@@ -41,17 +41,16 @@
 		</strong>
 		<strong class="col-md-4 text-center">
 		      <h6>Siguenos en </h6>    
-			<a href="" title=""><i class="fab fa-whatsapp fa-1x text-success ml-4"></i></a> 
-			<a href="" title=""><i class="fab fa-instagram fa-1x text-danger"></i></a>
-			<a href="" title=""><i class="fab fa-facebook-square fa-1x text-info"></i></a>
+			<a href="https://api.whatsapp.com/send?phone=573216521716" title="" target="blank"><i class="fab fa-whatsapp fa-1x text-success ml-4"></i></a>
+			<a href="https://www.facebook.com/LineofcodeColombia/" title="" target="blank"><i class="fab fa-facebook-square fa-1x text-info"></i></a>
 		</strong>
 		<strong class="col-md-4 text-center">
 		      <h6>Contactanos </h6>    
-		      <h7>
-		    <i class="fas fa-envelope-open "> lineofcodecolombia@gmail.com |</i>
-			<i class="fas fa-phone-volume"> 321 652 1716 |</i>
-			<i class="fas fa-map-marker-alt"> Dir: Carrera 27 #10-02, Pereira, Risaralda </i>
-		      </h7>
+		      <h6>
+		    <i class="fas fa-envelope-open"></i> lineofcodecolombia@gmail.com |
+			<i class="fas fa-phone-volume"></i> 321 652 1716 |
+			<i class="fas fa-map-marker-alt"></i> Dir: Carrera 27 #10-02, Pereira, Risaralda
+		      </h6>
 			
 		</strong>
 	</div>

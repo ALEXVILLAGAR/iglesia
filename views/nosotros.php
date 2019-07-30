@@ -1,47 +1,48 @@
 <div class="row bajar ocultar" id="mi-nosotros">
 
-	<h3 class="col-md-12 text-center  ">Nosotros.</h3>
+<div class="col-md-12 col-offset-0">
+		<h3 class="col-md-12 text-center  ">Nosotros.</h3>
   <hr class="col-md-10 col-offset-1">
-	<br>
+  <br>
+</div>
 
-<div class="row text-center">
-
-	<div class=" col-md-5 bg-secondary text-white  ml-10">
-  <div class="card-header bg-primary2 text-center">
-    <h5>Misión</h5>
-  </div>
-  <div class="card-body m-4 text-justify">
-  
-    	
+<div class="row text-center ">
+ 
+ <div class="row">
+	<div class="col-md-5 bg-secondary text-white mt-3 offset-0 m-5">
+  <h5 class="card-header bg-primary2 text-center col-md-12">
+    Misión
+  </h5>
+  <p class="card-body  text-justify col-md-12">
          	Somos una comunidad viva, sin ánimo de
 			lucro, que proclama, practica y enseña el
 			evangelio de fe y poder, formando discípulos
 			para Nuestro Señor Jesucristo, quien es el
 			único mediador entre Dios y los hombres, con
 			el fin de bendecir a Colombia y a las naciones.
-       
-   </div>
+   </p>
 </div>
 
-<div class=" col-md-5 bg-secondary text-white  ml-1">
-  <div class="card-header bg-primary2 text-center">
-    <h5>Visión</h5>
-  </div>
-  <div class="card-body m-4 text-justify">
-  
+<div class=" col-md-5 bg-secondary text-white offset-0 mt-3 m-5">
+  <h5 class="card-header bg-primary2 text-center col-md-12">
+    Visión
+  </h5>
+  <p class="card-body  text-justify col-md-12">
     	<br>
     	Desarrollar un avivamiento espiritual
 		permanente que genere crecimiento integral
 		en las personas para la gloria de Dios.
     
-   </div>
+   </p>
+</div>
+
 </div>
 
 <h4 class="col-md-12 text-center mt-5">Nuestros principios y valores.</h4>
 	<hr class="col-md-1">
 	<div class="col-md-12 mt-3"></div>
 
- <div class=" col-md-5 bg-secondary text-white  ml-10">
+ <div class=" col-md-5 bg-secondary text-white  m-5">
   <div class="card-header bg-primary2 text-center">
     <h5>Amor</h5>
   </div>
@@ -61,7 +62,7 @@
    </div>
 </div>	
 
-<div class=" col-md-5 bg-secondary text-white  ml-1">
+<div class=" col-md-5 bg-secondary text-white  m-5">
   <div class="card-header bg-primary2 text-center">
     <h5>Obediencia</h5>
   </div>
@@ -76,7 +77,7 @@
    </div>
 </div>
 
-<div class=" col-md-5 bg-secondary text-white  ml-10 mt-2">
+<div class=" col-md-5 bg-secondary text-white  m-5 mt-2">
   <div class="card-header bg-primary2 text-center">
     <h5>Sacrificio</h5>
   </div>
@@ -92,7 +93,7 @@
    </div>
 </div>
 
-<div class=" col-md-5 bg-secondary text-white  ml-1 mt-2">
+<div class=" col-md-5 bg-secondary text-white  m-5 mt-2">
   <div class="card-header bg-primary2 text-center">
     <h5>Santidad</h5>
   </div>
@@ -111,7 +112,7 @@
    </div>
 </div>
 
-<div class=" col-md-10 bg-secondary text-white  ml-10 mt-3">
+<div class=" col-md-11 bg-secondary text-white  m-5  mt-3">
   <div class="card-header bg-primary2 text-center">
     <h5>Fe</h5>
   </div>
@@ -140,7 +141,7 @@
    </div>
 </div>
 
-<div class=" col-md-5 bg-secondary text-white  ml-10 mt-2">
+<div class=" col-md-5 bg-secondary text-white  m-5 mt-2">
   <div class="card-header bg-primary2 text-center">
     <h5>Unidad</h5>
   </div>
@@ -157,7 +158,7 @@
    </div>
 </div>
 
-<div class=" col-md-5 bg-secondary text-white  ml-1 mt-2">
+<div class=" col-md-5 bg-secondary text-white  m-5 mt-2">
   <div class="card-header bg-primary2 text-center">
     <h5>Integridad</h5>
   </div>
@@ -175,7 +176,7 @@
    </div>
 </div>
 
-<div class=" col-md-5 bg-secondary text-white  ml-10 mt-2">
+<div class=" col-md-5 bg-secondary text-white  m-5 mt-2">
   <div class="card-header bg-primary2 text-center">
     <h5>Generosidad</h5>
   </div>
@@ -193,7 +194,7 @@
    </div>
 </div>
 
-<div class=" col-md-5 bg-secondary text-white  ml-1 mt-2">
+<div class=" col-md-5 bg-secondary text-white  m-5 mt-2">
   <div class="card-header bg-primary2 text-center">
     <h5>Compromiso</h5>
   </div>
@@ -211,7 +212,7 @@
    </div>
 </div>
 
-<div class=" col-md-5 bg-secondary text-white  ml-10 mt-2">
+<div class=" col-md-5 bg-secondary text-white  m-5 mt-2">
   <div class="card-header bg-primary2 text-center">
     <h5>Verdad</h5>
   </div>
@@ -231,7 +232,7 @@
    </div>
 </div>
 
-<div class=" col-md-5 bg-secondary text-white  ml-1 mt-2">
+<div class=" col-md-5 bg-secondary text-white  m-5 mt-2">
   <div class="card-header bg-primary2 text-center">
     <h5>Humildad</h5>
   </div>
@@ -248,7 +249,7 @@
    </div>
 </div>
 
-<div class=" col-md-10 bg-secondary text-white  ml-10 mt-2">
+<div class=" col-md-11 bg-secondary text-white  m-5 mt-2">
   <div class="card-header bg-primary2 text-center">
     <h5>Lealtad</h5>
   </div>

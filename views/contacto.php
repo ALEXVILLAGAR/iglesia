@@ -1,10 +1,10 @@
 <div class="row bajar ocultar" id="mi-contacto">
 
 	<h3 class="col-md-12 text-center ">Contacto</h3>
-	<hr class="col-md-10 col-offset-1">
+	<hr class="col-md-10 col-offset-0">
 	<br>
 	<div class="row text-center">
-		<div class=" text-white bg-secondary mb-3  col-md-3 ml-10" style="max-width: 18rem;">
+		<div class=" text-white bg-secondary mb-3  col-md-4 ml-8" style="max-width: 18rem;">
 		  <div class="card-header bg-primary2">
 		  	<h5 class="text-center ml-4"> Reunión Abuelos Felices</h5></div>
 		  <div class="card-body p-2">
@@ -17,7 +17,7 @@
 		  </div>
 		</div>
 
-		<div class=" text-white bg-secondary mb-3  col-md-3  ml-5" style="max-width: 18rem;">
+		<div class=" text-white bg-secondary mb-3  col-md-4  ml-8" style="max-width: 18rem;">
 		  <div class="card-header bg-primary2">
 		  	<h5 class="text-center ml-4 mt-3"> Reuniones generales</h5></div>
 		  <div class="card-body p-2">
@@ -35,7 +35,7 @@
 		  </div>
 		</div>
 
-		<div class=" text-white bg-secondary mb-3  col-md-3 ml-5" style="max-width: 18rem;">
+		<div class=" text-white bg-secondary mb-3  col-md-4 ml-8" style="max-width: 18rem;">
 		  <div class="card-header bg-primary2">
 		  	<h5 class="text-center ml-4 mt-3"> Horarios de oficina
              </h5>
@@ -54,13 +54,13 @@
 		  </div>
 		</div>
          
-		<div class=" col-md-10 bg-secondary text-white ml-9">
-  <div class="card-header bg-secondary">
+		<div class=" col-md-10 bg-secondary text-white ml-9 mt-5">
+  <div class=" bg-secondary">
     <h5>Domicilio</h5>
     <hr class="col-md-1">
   </div>
-  <div class="card-body m-4">
-    <p class="card-text">CRA 16 N° 18-40, Santa Rosa de Cabal, Risaralda.
+  <div class=" m-4">
+    <p class="">CRA 16 N° 18-40, Santa Rosa de Cabal, Risaralda.
     <br>
          Teléfono: 57 (6) 3655317
     </p>

@@ -10,7 +10,10 @@
 ?>
 
 </div>
-  <button class="button3 mt-2" id="eventos"><strong><i class="fas fa-images fa-2x"></i> Ver todas las fotos</strong><?php $archivo='fotos2' ?></button>
+<div class="row">
+	<button class="button3 mt-2 col-md-8 offset-2" id="eventos"><strong><i class="fas fa-images fa-2x"></i> Ver todas las fotos</strong><?php $archivo='fotos2' ?></button>
+</div>
+  
  
 
 

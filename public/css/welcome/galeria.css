@@ -1,26 +1,26 @@
 .foto{
 	height: 270px;
 	width: 280px;
-}
+} 
 
 .foto-zoom{
-  height: 500px;
-  width: 970px;
+  height: 480px;
+  width: 100%;
 }
 
 .bajar{
-	margin-top: 9.5%;
+	margin-top: 9rem;
 }
 
 .ocultar{
 display: none;
 }
-
+ 
 .button3 {
   text-transform: uppercase;
-  margin-left: 25%;
-  width: 50%;
-  height: 45px;
+ 
+  width: 400px;
+  height: 40%;
   font-size: 15px;
   letter-spacing: 2px;
   font-weight: 500;
@@ -48,9 +48,10 @@ display: none;
 
 
 .btn-back{
-  width: 10%;
+  width: 100px;
+  height: 10%;
   display: inline-block;
-  font: 50px;
+  font: 10%;
   color: black;
   background-color: white;
   position: fixed;

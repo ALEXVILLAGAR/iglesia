@@ -21,6 +21,7 @@
 
   $(document).ready(function(){ 
    $('#contacto').on('click',function(){
+       window.scrollTo(0,0);
        $('#mi-contacto').show();
        $('#mi-galeria').hide();
        $('#todas-casasDeFormacion').hide();
@@ -46,6 +47,7 @@
  
     $(document).ready(function(){ 
    $('#galeria').on('click',function(){
+       window.scrollTo(0,0);
        $('#mi-galeria').show();
        $('#todas-alabanzas').hide();
        $('#todas-casasDeFormacion').hide();
@@ -217,6 +219,7 @@ $(document).ready(function(){
   
     $(document).ready(function(){ 
    $('#inicio').on('click',function(){
+       window.scrollTo(0,0);
        $('#mi-galeria').hide();
        $('#todas-casasDeFormacion').hide();
        $('#mi-contacto').hide();
@@ -241,6 +244,7 @@ $(document).ready(function(){
 
     $(document).ready(function(){ 
    $('#inicio1').on('click',function(){
+       window.scrollTo(0,0);
        $('#mi-galeria').hide();
        $('#todas-casasDeFormacion').hide();
        $('#mi-contacto').hide();
@@ -264,6 +268,7 @@ $(document).ready(function(){
 
     $(document).ready(function(){ 
    $('#nosotros').on('click',function(){
+       window.scrollTo(0,0);
        $('#mi-galeria').hide();
        $('#todas-casasDeFormacion').hide();
        $('#todas-alabanzas').hide();
@@ -288,6 +293,7 @@ $(document).ready(function(){
   
     $(document).ready(function(){ 
    $('#recursos').on('click',function(){
+       window.scrollTo(0,0);
        $('#mi-galeria').hide();
        $('#todas-casasDeFormacion').hide();
        $('#todas-alabanzas').hide();
@@ -312,6 +318,7 @@ $(document).ready(function(){
 
    $(document).ready(function(){ 
    $('#ministerios').on('click',function(){
+       window.scrollTo(0,0);
        $('#mi-galeria').hide();
        $('#todas-alabanzas').hide();
        $('#todas-casasDeFormacion').hide();
@@ -336,6 +343,7 @@ $(document).ready(function(){
 
     $(document).ready(function(){ 
    $('#pastores').on('click',function(){
+       window.scrollTo(0,0);
        $('#mi-galeria').hide();
        $('#todas-casasDeFormacion').hide();
        $('#todas-alabanzas').hide();

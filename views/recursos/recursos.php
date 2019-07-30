@@ -6,8 +6,8 @@
 <hr class="col-md-10 col-offset-1">
 
 <div class="row">
-    <div class="container bg-primary2 mt-5 ">
-    <table id="table_id" class="display col-md-12 table-secondary">
+    <div class="container bg-primary2 mt-5 col-md-10 table-responsive">
+    <table id="table_id" class="display table-secondary container">
     <thead>
         <tr>
             <th>Recursos</th>
@@ -27,10 +27,10 @@ while ($archivo = readdir($directorio)) //obtenemos un archivo y luego otro suce
     {
         ?>       
  <tr>
-            <td><h4 class="text-dark text-center"><?php echo $archivo; ?></h4></td>
-            <td><form action="views/recursos/descargar.php" method="Post"  enctype="multipart/form-data">
+            <td class="col-md-6"><h4 class="text-dark text-center"><?php echo $archivo; ?></h4></td>
+            <td class="col-md-6"><form action="views/recursos/descargar.php" method="Post"  enctype="multipart/form-data">
                 <input type="hidden" name="nombre" value="<?php echo $archivo ?>" />
-                <button type="submit" class="button1 sombra"><strong>
+                <button type="submit" class="button1 sombra col-md-12"><strong>
                     <i class="fas fa-cloud-download-alt fa-2x "></i> 
                 Descargar</strong>
             </button>
