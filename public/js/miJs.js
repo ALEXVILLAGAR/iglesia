@@ -38,6 +38,8 @@
        $("#todas-eventos").hide();
        $('#todas-infantil').hide();
        $('#todas-ujieres').hide();
+       $("#menu").addClass("collapse");
+       $("#navbarSupportedContent").removeClass("show");
    }
    );
 });
@@ -61,6 +63,7 @@
        $("#todas-eventos").hide();
        $('#todas-infantil').hide();
        $('#todas-ujieres').hide();
+       $("#navbarSupportedContent").removeClass("show");
    }
    );
 });
@@ -231,6 +234,7 @@ $(document).ready(function(){
        $("#todas-eventos").hide();
        $('#todas-infantil').hide();
        $('#todas-ujieres').hide();
+       $("#navbarSupportedContent").removeClass("show");
    }
    );
 });
@@ -277,6 +281,7 @@ $(document).ready(function(){
        $("#todas-eventos").hide();
        $('#todas-infantil').hide();
        $('#todas-ujieres').hide();
+       $("#navbarSupportedContent").removeClass("show");
    }
    );
 });
@@ -300,6 +305,7 @@ $(document).ready(function(){
        $("#todas-eventos").hide();
        $('#todas-infantil').hide();
        $('#todas-ujieres').hide();
+       $("#navbarSupportedContent").removeClass("show");
    }
    );
 });
@@ -323,6 +329,7 @@ $(document).ready(function(){
        $("#todas-eventos").hide();
        $('#todas-infantil').hide();
        $('#todas-ujieres').hide();
+       $("#navbarSupportedContent").removeClass("show");
    }
    );
 });
@@ -346,6 +353,7 @@ $(document).ready(function(){
        $("#todas-eventos").hide();
        $('#todas-infantil').hide();
        $('#todas-ujieres').hide();
+       $("#navbarSupportedContent").removeClass("show");
    }
    );
 });
