@@ -1,5 +1,5 @@
 
-<div class="row bajar ocultar"  id="todas-infantil">
+<div class="row bajar1 ocultar"  id="todas-infantil">
 	
 <h3 class="col-md-12 text-center mt-5 ">Infantil</h3>
 <hr class="col-md-10 col-offset-1">

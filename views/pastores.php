@@ -1,5 +1,5 @@
 
-<div class="row ocultar bajar"  id="mi-pastores">
+<div class="row ocultar bajar1"  id="mi-pastores">
 
 
 <h3 class="col-md-12 text-center  bajar">Pastores</h3>

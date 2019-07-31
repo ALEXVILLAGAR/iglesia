@@ -1,5 +1,5 @@
 
-<div class="row ocultar"  id="mi-recursos">
+<div class="row ocultar bajar1"  id="mi-recursos">
 
 
 <h3 class="col-md-12 text-center  bajar">Recursos</h3>

@@ -1,4 +1,4 @@
-<div class="row bajar" style="display:none" id="mi-ministerios">
+<div class="row bajar1" style="display:none" id="mi-ministerios">
 
 	<h3 class="col-md-12 text-center">Ministerios.</h3>
 	<hr class="col-md-10 col-offset-1">

@@ -1,4 +1,4 @@
-<div class="row bajar ocultar"  id="todas-casasDeFormacion">
+<div class="row bajar1 ocultar"  id="todas-casasDeFormacion">
 	
 <h3 class="col-md-12 text-center mt-5 ">Obras sociales</h3>
 <hr class="col-md-10 col-offset-1">

@@ -1,4 +1,4 @@
-<div class="row bajar ocultar" id="mi-nosotros">
+<div class="row bajar1 ocultar" id="mi-nosotros">
 
 <div class="col-md-12 col-offset-0">
 		<h3 class="col-md-12 text-center  ">Nosotros.</h3>
