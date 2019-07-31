@@ -41,8 +41,8 @@
 		</strong>
 		<strong class="col-md-4 text-center">
 		      <h6>Siguenos en </h6>    
-			<a href="https://api.whatsapp.com/send?phone=573216521716" title="" target="blank"><i class="fab fa-whatsapp fa-1x text-success ml-4"></i></a>
-			<a href="https://www.facebook.com/LineofcodeColombia/" title="" target="blank"><i class="fab fa-facebook-square fa-1x text-info"></i></a>
+			<a href="https://api.whatsapp.com/send?phone=573216521716" title="" target="blank"><i class="fab fa-whatsapp fa-1x text-success ml-4 fa-2x"></i></a>
+			<a href="https://www.facebook.com/LineofcodeColombia/" title="" target="blank"><i class="fab fa-facebook-square fa-1x text-info fa-2x"></i></a>
 		</strong>
 		<strong class="col-md-4 text-center">
 		      <h6>Contactanos </h6>    
