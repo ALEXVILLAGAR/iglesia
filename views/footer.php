@@ -32,7 +32,7 @@
 	</div>
 
    <div class="col-md-4 text-center bajar sombra">
-		<img src="public/img/logoIglesia/logo.png" width="350" class="mt-40 ">
+		<img src="public/img/logoIglesia/logo.png" width="310" class="mt-40 ">
 	</div>
 
 	<div class="col-md-12 text-center bajar">
