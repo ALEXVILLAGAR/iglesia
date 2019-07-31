@@ -10,8 +10,8 @@
     <h5>Ministerio juvenil.</h5>
   </div>
 	<div class="row">
-  <div class="card-body m-4 col-md-6">
-  	<img src="public/img/pastores/Juveniles.jpg" class="img-circle">
+  <div class="card-body p-0 col-md-5 mt-3">
+  	<img src="public/img/pastores/Juveniles.jpg" class="img-circle text-center mr-5">
 	    
    </div>
    <div class="col-md-5">
