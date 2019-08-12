@@ -16,7 +16,7 @@ svg {
   height: 100%;
 }
 
-button {
+.button1 {
   position: absolute;
   z-index: 50;
   width: 40px;
@@ -30,7 +30,7 @@ button {
   -moz-box-shadow: 0 0 88px 5px rgba(0, 0, 0, 0.75);
   box-shadow: 0 0 88px 5px rgba(0, 0, 0, 0.75);
 }
-button:focus {
+.button1:focus {
   outline-width: 0;
 }
 
