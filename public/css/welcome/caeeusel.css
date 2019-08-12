@@ -16,7 +16,7 @@ svg {
   height: 100%;
 }
 
-.button1 {
+.buttonSlider {
   position: absolute;
   z-index: 50;
   width: 40px;
