@@ -21,7 +21,8 @@
     <link rel="stylesheet" href="public/css/welcome/todo.css">
     <link rel="stylesheet" href="public/css/welcome/pastores.css">
     <link rel="stylesheet" href="public/css/welcome/inicio.css">
-    
+    <link rel="stylesheet" href="public/css/welcome/caeeusel.css">
+
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
   
     <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>

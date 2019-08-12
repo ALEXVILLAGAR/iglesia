@@ -1,4 +1,4 @@
-.slider {
+/*.slider {
     width: 95%;
     margin: auto;
     overflow: hidden;
@@ -38,4 +38,9 @@
     
     75% {margin-left: -300%;}
     100% {margin-left: -300%;}
+}
+*/
+
+.bajar3{
+ margin-top: 550px;
 }

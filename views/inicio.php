@@ -1,6 +1,6 @@
 <div class="row bajar" id="mi-inicio">
 
-   <div class="slider">
+   <!-- <div class="slider">
             <ul>
                 <li>
   <img src="public/img/noticias/noticia1.jpg" alt="" class="foto-carrusell">
@@ -18,10 +18,11 @@
   <img src="public/img/noticias/noticia5.jpg" alt="" class="foto-carrusell">
 </li>
             </ul>
-        </div>
+        </div> -->
+<?php include 'views/carrusel.php'; ?>
+<br>
 
-
-          <div class="col-md-12 text-center mt-5">
+          <div class="col-md-12 text-center bajar3">
             <h2 class="">Noticias de interes.</h2>
            <hr class="col-md-10 ">
           </div>
