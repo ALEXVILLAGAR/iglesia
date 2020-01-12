@@ -51,36 +51,7 @@
         <?php include 'views/galeria/galeria.php';  ?>
       </section>
 
-      <!-- inicia galeria todas imagenes de carpeta2-->
-      <section id="fotos2">
-        <?php include 'views/galeria/todasCarpeta2.php' ?>
-      </section>
-
-      <!-- inicia galeria todas imagenes de obras sociales-->
-      <section id="obras-sociales">
-        <?php include 'views/galeria/todasObrasSociales.php' ?>
-      </section>
-
-      <!-- inicia galeria todas imagenes de casas de formacion-->
-      <section id="obras-sociales">
-        <?php include 'views/galeria/todasCasasDeFormacion.php' ?>
-      </section>
-
-      <!-- inicia galeria todas imagenes de alabanzas-->
-      <section id="alabanzas">
-        <?php include 'views/galeria/todasAlabanzas.php' ?>
-      </section>
-
-      <!-- inicia galeria todas imagenes de infaltil-->
-      <section id="infantil">
-        <?php include 'views/galeria/todasInfantil.php' ?>
-      </section>
-
-      <!-- inicia galeria todas imagenes de ujieres-->
-      <section id="infantil">
-        <?php include 'views/galeria/todasUjieres.php' ?>
-      </section>
-
+      
       <!-- inicia pastores -->
       <section id="pastores "  >
         <?php include 'views/pastores.php';  ?>

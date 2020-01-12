@@ -32,7 +32,7 @@
     <h5>Ministerio de alabanza Conexión Celestial.</h5>
   </div>
   <div class="card-body m-4">
-	    <p class="card-text text-justify">  A través de los años en nuestra congregación, este ministerio se ha establecido con
+	    <p class="card-text text-justify">  A través de los años en nuestra congregación,     este            ministerio se ha establecido con
 											la visión y misión de llevar a la congregación a adorar y glorificar a Dios, por su
 											maravilloso respaldo. Todos los miembros de este grupo están comprometidos con
 											nuestra Iglesia, siendo algunos de ellos líderes y otros, parte de los equipos de
@@ -44,7 +44,7 @@
 
 <div class=" col-md-10 bg-secondary text-white ml-10  text-center mt-5">
   <div class="card-header bg-secondary">
-    <h5>Ministerio de Danzas el Shaddai.</h5>
+    <h5>Ministerio de Danzas.</h5>
   </div>
   <div class="card-body m-4">
 	    <p class="card-text text-justify">  Este ministerio ha venido dando pasos, involucrando jóvenes con un sentido de

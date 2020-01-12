@@ -1,4 +1,4 @@
-
+<div class="row">
  <div class='parent'>
   <div class='slider'>
    <button type="button" id='right' class='right buttonSlider' name="button">
@@ -48,8 +48,9 @@
    <div id='slide1' class='slide1 up1'></div>
    <div id='slide2' class='slide2'></div>
    <div id='slide3' class='slide3'></div>
-   <div id='slide4' class='slide4'></div>
+   <div id='slide4' class='slide4'></div> 
    <div id='slide5' class='slide5'></div>
   </div>
  </div>
 
+</div>

@@ -2,41 +2,51 @@
 
 <div class="row bajar1 ocultar"  id="mi-galeria">
     
-	<h3 class="col-md-12 text-center ">Nuestras Fotos</h3>
-    <hr class="col-md-10 col-offset-1">
+    <div class="row text-center">
+        <div class="col-md-6">
+        <h3 class=" text-center">Obras sociales
+        <br>
+        <hr>
+        </h3>
+        <img src="public/img/galeria/obras-sociales/1.jpg" alt="" class="col-md-12"> 
+        </div>
+        
+       <div class="col-md-6">
+           <h3>Eventos
+        <br>
+        <hr>
+        </h3>
+        <img src="public/img/galeria/eventos/1.jpeg" alt="" class="col-md-12">
+       </div>
+    <br>
+    <br>
+    <div class="col-md-12 offset-0 text-center mt-5">
+        <h3>Ujieres
+        <br>
+        <hr class="col-md-6">
+        </h3>
+        <img src="public/img/galeria/ministerios/Ujieres/1.jpg" alt="" class="col-md-6">
+    </div>
+   
+    <div class="col-md-6 text-center mt-5">
+        <h3>Ministerio de alabanza
+        <br>
+        <hr>
+        </h3>
+        <img src="public/img/galeria/ministerios/infantil/1.jpg" alt="" class="col-md-12">
+    </div>
 
-<?php include 'recorrerCarpeta.php'; ?>
+    <div class="col-md-6 text-center mt-5">
+        <h3>Ministerio infantil
+        <br>
+        <hr>
+        </h3>
+        <img src="public/img/galeria/ministerios/infantil/1.jpg" alt="" class="col-md-12">
+    </div>
 
-<?php include 'obrasSociales.php'; ?>
-
-<?php include 'carpeta2.php'; ?>
-
-<!-- <?php include 'casasDeFormacion.php'; ?> -->
-
-<?php include 'ministerios.php'; ?>
+    </div>
+    
 
 </div>    
 
-<div class="modal fade" id="image-gallery" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-lg">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h4 class="modal-title" id="image-gallery-title"></h4>
-                        <button type="button" class="close text-dark sombra btn btn-danger" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span>
-                        </button>
-                    </div>
-                    <div class="modal-body">
-                        <img id="image-gallery-image" class="img-responsive col-md-12 foto-zoom" src="">
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary float-left" id="show-previous-image"><i class="fa fa-arrow-left"></i>
-                        </button>
-
-                        <button type="button" id="show-next-image" class="btn btn-secondary float-right"><i class="fa fa-arrow-right"></i>
-                        </button>
-                    </div>
-                </div>
-            </div>
-        </div>
-</div>
 

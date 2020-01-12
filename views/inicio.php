@@ -1,24 +1,4 @@
 <div class="row bajar" id="mi-inicio">
-
-   <!-- <div class="slider">
-            <ul>
-                <li>
-  <img src="public/img/noticias/noticia1.jpg" alt="" class="foto-carrusell">
-</li>
-                <li>
-  <img src="public/img/noticias/noticia2.jpg" alt="" class="foto-carrusell">
-</li>
-                <li>
-  <img src="public/img/noticias/noticia3.jpg" alt="" class="foto-carrusell">
-</li>
-<li>
-  <img src="public/img/noticias/noticia4.jpg" alt="" class="foto-carrusell">
-</li>
-<li>
-  <img src="public/img/noticias/noticia5.jpg" alt="" class="foto-carrusell">
-</li>
-            </ul>
-        </div> -->
 <?php include 'views/carrusel.php'; ?>
 <br>
 
@@ -96,23 +76,6 @@
                              Tendremos oración, intercesión, predicaciones. Sólo para líderes y
                              miembros de la Iglesia que ayunen.
         </p> 
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class=" mb-3 bg-secondary mt-5 col-md-6" >
-  <h5 class="card-title text-center"> Día del amigo</h5>
-        <hr class="col-md-1">
-  <div class="row no-gutters">
-    <div class="col-md-4 text-center">
-      <img src="https://st3.depositphotos.com/17302234/19432/v/600/depositphotos_194323282-stock-video-man-helping-his-friend-climb.jpg" class="card-img" alt="..." width="220" height="160">
-    </div>
-    <div class="col-md-8 p-5">
-      <div class="card-body">
-        <p class="card-text">El domingo 21 de julio celebraremos el día del amigo en nuestras
-                              dos reuniones dominicales. Invitamos a la Iglesia a traer invitados.
-        </p>    
       </div>
     </div>
   </div>
