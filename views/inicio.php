@@ -3,7 +3,7 @@
 <br>
 
           <div class="col-md-12 text-center bajar3">
-            <h2 class="">Noticias de interes.</h2>
+            <h2 class="">Noticias de interés.</h2>
            <hr class="col-md-10 ">
           </div>
            

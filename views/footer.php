@@ -4,7 +4,7 @@
 	<div class="col-md-4 text-center bajar  sombra">
 		<br>
 		<h4 class="">Iglesia Mover de Dios <br>
-		    <p>cruzada cristiana.</p>
+		    <p>Cruzada Cristiana.</p>
 		</h4>
 		<br>
 		<i class="fas fa-map-marker-alt fa-2x mr-3"> </i> Santa Rosa de Cabal, Risaralda. 

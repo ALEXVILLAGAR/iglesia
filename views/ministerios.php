@@ -5,7 +5,7 @@
 	<br>
         
 
-<div class=" col-md-10 bg-secondary text-white ml-10  text-center mt-5">
+<!-- <div class=" col-md-10 bg-secondary text-white ml-10  text-center mt-5">
 	<div class="card-header bg-secondary">
     <h5>Ministerio juvenil.</h5>
   </div>
@@ -25,7 +25,7 @@
    </div>
 
   </div>
-</div>
+</div> -->
 
 <div class=" col-md-10 bg-secondary text-white ml-10  text-center mt-5">
   <div class="card-header bg-secondary">
