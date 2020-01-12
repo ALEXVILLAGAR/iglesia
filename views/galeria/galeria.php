@@ -33,7 +33,7 @@
         <br>
         <hr>
         </h3>
-        <img src="public/img/galeria/ministerios/infantil/1.jpg" alt="" class="col-md-12">
+        <img src="public/img/galeria/ministerios/alabanza/7.jpeg" alt="" class="col-md-12">
     </div>
 
     <div class="col-md-6 text-center mt-5">
