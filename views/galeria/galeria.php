@@ -2,6 +2,10 @@
 
 <div class="row bajar1 ocultar"  id="mi-galeria">
     
+    <h3 class="col-md-12 text-center">Galerìa.</h3>
+    <hr class="col-md-10 col-offset-1">
+    <br>
+
     <div class="row text-center">
         <div class="col-md-6">
         <h3 class=" text-center">Obras sociales
