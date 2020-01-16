@@ -11,7 +11,7 @@
 
     <div class="row">
 
-      <div class=" mb-3 bg-secondary mt-5 col-md-6" >
+     <!--  <div class=" mb-3 bg-secondary mt-5 col-md-6" >
         <h5 class="card-title text-center col-md-12"> Escuela Mover de Dios</h5>
          <hr class="col-md-1">
   <div class="row no-gutters">
@@ -79,7 +79,7 @@
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
     </div>
 </div>

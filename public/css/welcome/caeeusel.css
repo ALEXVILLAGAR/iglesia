@@ -158,24 +158,24 @@ circle {
   transition-delay: 0.45s;
 }
 
-.slide1 {
-  background-image: url('../../img/noticias/noticia1.jpg');
+.slide11 {
+  background-image: url('../../img/logoiglesia/logofinal.jpg');
 }
 
 .slide2 {
-  background-image: url("../../img/noticias/noticia2.jpg");
+  background-image: url("../../img/noticias/noticia1.jpg");
 }
 
 .slide3 {
-  background-image: url("../../img/noticias/noticia3.jpg");
+  background-image: url("../../img/logoiglesia/logofinal.jpg");
 }
 
 .slide4 {
-  background-image: url("../../img/noticias/noticia5.jpg");
+  background-image: url("../../img/noticias/noticia1.jpg");
 }
 
 .slide5 {
-  background-image: url("../../img/noticias/noticia5.jpg");
+  background-image: url("../../img/logoiglesia/logofinal.jpg");
 }
 
 .slider {
